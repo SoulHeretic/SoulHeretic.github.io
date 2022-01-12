@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Computer Science and Engineering Department](http://csee.usf.edu/) at the [University of South Florida](http://www.usf.edu), as well as a member of the [Computer Vision and Pattern Recognition Group](http://www.eng.usf.edu/cvprg/index.html). My research interests are broadly in computer vision, pattern recognition, and image processing. 
+I'm a professor in the Department of Computer Science and Engineering at University of South Florida. My research interests are in the areas of database systems, distributed systems, and high performance computing. I attended graduate school at Purdue University, and got a PhD and an MS in Computer Sciences. I also hold a Bachelor's degree in Horticulture from China Agricultural University.
 
 Research Interests
 ====
-Affective Computing  
-Biometrics  
-Machine Learning  
-Multimodal Signal Processing  
-Human-computer Interaction  
 
-Research Application Areas of Interest
+Database Management Systems (with a focus on scientific data management and energy-aware databases)
+Application of Control Theory
+High-Performance Computing
+GPU Computing.
+
+News
 ====
-Medicine & Health  
-Security  
-Entertainment  
-Education  
+Multiple positions are available for undergraduate students. If you are an undergraduate student interested in doing research and gaining some hands-on experience on database management systems, feel free to talk to me. And you will get paid!
+
