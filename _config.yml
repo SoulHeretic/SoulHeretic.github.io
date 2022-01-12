@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaun Canavan"
+title                    : "Yicheng Tu"
 title_separator          : "-"
-name                     : &name "Shaun Canvan"
+name                     : &name "Yicheng Tu"
 description              : &description ""
 url                      : https://scanavan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaun Canavan, PhD"
+  name             : "Yicheng Tu, PhD"
   avatar           : "Canavan.png"
-  bio              : "Assistant Professor, Computer Science & Engineering"
+  bio              : "Professor, Computer Science & Engineering"
   location         : "Tampa, Florida"
   employer         : "University of South Florida"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F67ykzGr_hY33mOEoMQPjtpSIuUVsNrvD0tedddK_K02c5HpQhI_B_IWa61NMsucCc9PvNPuym5NbZchQ3hpTodOnLgSYZ80Vsm8m4VVPifQD_FgYU&user=zayQB-oAAAAJ"
-  email            : "scanavan@usf.edu"
-  researchgate     : "https://www.researchgate.net/profile/Shaun-Canavan-2"
+  googlescholar    : #"https://scholar.google.com/citations?user=XGUKYjMAAAAJ"
+  email            : "tuy@usf.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yicheng-Tu"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shaun-canavan-bb324ab/"
+  linkedin         : "yicheng-tu-34b80217/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1538-476X"
   pinterest        :
   soundcloud       :
