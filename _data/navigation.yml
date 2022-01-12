@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "Publications (Google Scholar)"
-    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F67ykzGr_hY33mOEoMQPjtpSIuUVsNrvD0tedddK_K02c5HpQhI_B_IWa61NMsucCc9PvNPuym5NbZchQ3hpTodOnLgSYZ80Vsm8m4VVPifQD_FgYU&user=zayQB-oAAAAJ
+    url: https://scholar.google.com/citations?user=XGUKYjMAAAAJ&hl=en
 
   - title: "News"
     url: /news/
@@ -16,4 +16,4 @@ main:
     url: /teaching/    
   
   - title: "CV"
-    url: /files/CanavanCV_Full.pdf
+    url: /files/Tu-CV.pdf
