@@ -86,7 +86,7 @@ author:
   location         : "Tampa, Florida"
   employer         : "University of South Florida"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=XGUKYjMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=XGUKYjMAAAAJ"
   email            : "tuy@usf.edu"
   researchgate     : "https://www.researchgate.net/profile/Yicheng-Tu"
   uri              :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "scanavan"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "yicheng-tu-34b80217/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1538-476X"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@scanavanUSF"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCWnwWP1t-6oMwBIuEhV7-nA"
+  youtube          :
   wikipedia        :
 
 
