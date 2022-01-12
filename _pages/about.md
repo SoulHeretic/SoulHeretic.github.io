@@ -14,9 +14,12 @@ Research Interests
 ====
 
 Database Management Systems (with a focus on scientific data management and energy-aware databases)
+
 Application of Control Theory
+
 High-Performance Computing
-GPU Computing.
+
+GPU Computing
 
 News
 ====
