@@ -2,7 +2,7 @@
 title: "Hao Li"
 excerpt:
 collection: students
-type: "M.S. student"
+type: "Ph.D Student"
 link:
 #permalink: /students/Liza
 venue: "University of South Florida"
