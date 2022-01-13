@@ -1,9 +1,9 @@
 ---
-title: "SK Rahatul Jannat"
-excerpt: "PhD student investigating expression and emotion across age."
+title: "Ran Rui"
+excerpt:
 collection: students
 type: "PhD Student"
-link: https://www.linkedin.com/in/rahatul-jannat/
+link:
 #permalink: /students/Raha
 venue: "University of South Florida"
 location: "Tampa, Florida"
