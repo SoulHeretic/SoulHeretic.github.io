@@ -2,7 +2,7 @@
 title: "Ran Rui"
 excerpt:
 collection: students
-type: "PhD Student"
+type: "Ph.D Student"
 link:
 #permalink: /students/Raha
 venue: "University of South Florida"
