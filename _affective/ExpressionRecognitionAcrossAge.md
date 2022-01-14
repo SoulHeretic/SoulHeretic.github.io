@@ -8,4 +8,4 @@ title: "II-New: A Research Platform for Heterogeneous, Massive Parallel Computin
     This project is supported by an [NSF](https://www.nsf.gov/) CRI award ([CNS-1513126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1513126)).
 
 ## Papers
-#1. [Sk R. Jannat and S. Canavan. Expression Recognition Across Age, FG 2021](/files/ExpressionRecognitionAcrossAge.pdf)
+# 1. [Sk R. Jannat and S. Canavan. Expression Recognition Across Age, FG 2021](/files/ExpressionRecognitionAcrossAge.pdf)
