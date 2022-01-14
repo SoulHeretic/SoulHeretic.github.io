@@ -1,7 +1,7 @@
 ---
 title: "Funded Projects"
 excerpt:
-collection: affective
+collection:
 type: "Research"
 link: /affective/ExpressionRecognitionAcrossAge
 venue: "University of South Florida"
