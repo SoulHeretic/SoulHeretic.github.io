@@ -10,10 +10,6 @@ location: "Tampa, Florida"
 
 
 
-This page will be updated with new materials as the project progresses.
-
-
-
 # 2. QuaSAQ: Enabling End-to-End QoS by A Database-Centric Approach.
 
   Support of user-input QoS requirements in multimedia databases cannot be accomplished by simply deploying the multimedia DBMS on top of QoS-provisioning OS or middleware. We propose an integrated QoS-control framework (QuaSAQ) as part of the DBMS as well as cost models to evaluate the QoS-aware queries. QuaSAQ is implemented on the basis of our video DBMS - [VDBMS](https://www.cs.purdue.edu/vdbms/).  Publications: [[EDBT04]](https://cse.usf.edu/~tuy/pub/edbt04.pdf)[[DEXA05b]](https://cse.usf.edu/~tuy/pub/dexa05-rep.pdf)[[TKDE07]](https://cse.usf.edu/~tuy/pub/TKDE07.pdf)
