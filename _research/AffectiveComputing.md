@@ -1,6 +1,6 @@
 ---
-title: "Affective Computing"
-excerpt: "Research into expression and emotion recognition."
+title: "Funded Projects"
+excerpt:
 collection: affective
 type: "Research"
 link: /affective/ExpressionRecognitionAcrossAge
