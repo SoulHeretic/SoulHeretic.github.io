@@ -1,10 +1,11 @@
 ---
-title: "Expression Recognition Across Age"
-collection: affective
+title: "II-New: A Research Platform for Heterogeneous, Massive Parallel Computing"
+#collection: affective
 ---
 
 # Abstract
-Expression recognition is an important and growing field in AI. It has applications in fields including, but not limited to, medicine, security, and entertainment. A large portion of research, in this area, has focused on recognizing expressions of young and middle-age adults with less focus on children and elderly subjects. This focus can lead to unintentional bias across age, resulting in less accurate models. Considering this, we investigate the impact of age on expression recognition. To facilitate this investigation, we evaluate two state-of-the-art datasets, that focus on different age ranges (children and elderly), namely EmoReact and ElderReact. We propose a Siamese-network based approach that learns the semantic similarity of expressions relative to each age. We show that the proposed approach, to expression recognition, is able to generalize across age. We show the proposed approach is comparable to or outperforms current state-of-the-art on the EmoReact and ElderReact datasets.
+  The aim of this project is to build a new computing research infrastructure that will accelerate existing research and enable ground-breaking new research that shares the common theme of massive parallel computing at USF. The requested infrastructure is a computer cluster with about 120 many-core co-processors including GPUs and Intel Phi cards. This acquisition will provide the much needed parallel computing capacity that is currently lacking in the existing USF IT infrastructure. This project will bring together eight investigators with research projects in several core disciplines of computer science and engineering: big data management, scientific computing, system security, hardware design, data mining, computer vision and pattern recognition. The proposed new resource will enable or enhance research in design, implementation, and evaluation of parallel programs at various levels of the software stack, ranging from cluster-level systems to individual application components and domain-specific languages. The infrastructure will also enhance learning experience of students as well as course content, curriculum development, and laboratory environment. The team of investigators will form a "USF Parallel Computing Workgroup" to coordinate related research, education, and outreach activities. This ensures the project team act in an integrated way to maximize the impact of the new infrastructure on the entire USF community.
+    This project is supported by an [NSF](https://www.nsf.gov/) CRI award ([CNS-1513126](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1513126)).
 
 ## Papers
-1. [Sk R. Jannat and S. Canavan. Expression Recognition Across Age, FG 2021](/files/ExpressionRecognitionAcrossAge.pdf)
+#1. [Sk R. Jannat and S. Canavan. Expression Recognition Across Age, FG 2021](/files/ExpressionRecognitionAcrossAge.pdf)
