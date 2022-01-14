@@ -28,7 +28,7 @@ This page will be updated with new materials as the project progresses.
 
 # 4. VDBMS - A video DBMS. [[link]](https://www.cs.purdue.edu/vdbms/)
 
-    A multimedia DBMS with full-featured video processing and content-based retrieval capabilities. I investigated the use of tertiary storage as medium for active data. One of the most serious problems in using tertiary storage is long response time to requests. I also studied relevant caching and pre-fetching algorithms for the purpose of minimizing latency. Publications: [[MMSJ04]](https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf)[[DMS03]](https://cse.usf.edu/~tuy/pub/DMS03.pdf)[[ICDE02]](https://cse.usf.edu/~tuy/pub/icde02.pdf)
+  A multimedia DBMS with full-featured video processing and content-based retrieval capabilities. I investigated the use of tertiary storage as medium for active data. One of the most serious problems in using tertiary storage is long response time to requests. I also studied relevant caching and pre-fetching algorithms for the purpose of minimizing latency. Publications: [[MMSJ04]](https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf)[[DMS03]](https://cse.usf.edu/~tuy/pub/DMS03.pdf)[[ICDE02]](https://cse.usf.edu/~tuy/pub/icde02.pdf)
 
 
 
