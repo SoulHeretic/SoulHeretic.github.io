@@ -1,12 +1,10 @@
 ---
 title: "Selected Projects"
-excerpt:
+excerpt: A sampling of projects divided into two self-explanatory groups.
 collection:
 type: "Research"
 permalink:
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+
 ---
 
 # Accomplished Projects
