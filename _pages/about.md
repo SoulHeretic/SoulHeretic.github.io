@@ -13,13 +13,13 @@ I'm a professor in the Department of Computer Science and Engineering at Univers
 Research Interests
 ====
 
-Database Management Systems (with a focus on scientific data management and energy-aware databases)
+- Database Management Systems (with a focus on scientific data management and energy-aware databases)
 
-Application of Control Theory
+- Application of Control Theory
 
-High-Performance Computing
+- High-Performance Computing
 
-GPU Computing
+- GPU Computing
 
 News
 ====
