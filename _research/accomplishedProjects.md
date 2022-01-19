@@ -1,5 +1,13 @@
-# <font size = "+6">Selected Research Projects</font>
-<br/>
+---
+title: "Selected Research Projects"
+excerpt:
+collection:
+type: "Research"
+link: /affective/ExpressionRecognitionAcrossAge
+venue: "University of South Florida"
+location: "Tampa, Florida"
+---
+
 
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
