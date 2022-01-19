@@ -1,5 +1,5 @@
 ---
-title: "Accomplished Projects"
+title: "Selected Projects"
 excerpt:
 collection:
 type: "Research"
