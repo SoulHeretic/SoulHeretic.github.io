@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/accomplishedProjects/
 
-  - title: "Publications (Google Scholar)"
-    url: https://scholar.google.com/citations?user=XGUKYjMAAAAJ&hl=en
+  - title: "Publications"
+    url: /publications/
      
   - title: "Teaching"
     url: /teaching/    
