@@ -1,3 +1,8 @@
+---
+permalink: /_research/
+title: "Selected Research Projects"
+---
+
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
 
