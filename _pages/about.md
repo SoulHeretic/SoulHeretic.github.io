@@ -24,5 +24,10 @@ GPU Computing
 News
 ====
 
+# ["Eficient Join Algorithms For Large Database Tables in a Multi-GPU Environment"](/files/DrTuPaper1.pdf)
+We designed three join algorithms with diferent out-of-core data transfer patterns and the same in-core join processing. By a series of experiments, we demonstrated that the inter-GPU communication and data exchange drastically afect the running time of the join algorithms.
+
+
+
 Multiple positions are available for undergraduate students. If you are an undergraduate student interested in doing research and gaining some hands-on experience on database management systems, feel free to talk to me. And you will get paid!
 
