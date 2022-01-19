@@ -7,6 +7,7 @@ permalink:
 
 ---
 
+<br/>
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
 
@@ -37,9 +38,7 @@ permalink:
   An interactive knowledge-based system for efficient and cost-effective maintenance of naval ships. A description of HPKB infrastructure and methodology: [[link]](https://cse.usf.edu/~tuy/research/HPKB/intro.PDF)
   
 <br/>
-<br/>
 <hr/>
-<br/>
 <br/>
 
 # Funded Projects
