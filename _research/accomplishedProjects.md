@@ -3,7 +3,7 @@ title: "Selected Research Projects"
 excerpt:
 collection:
 type: "Research"
-link: /affective/ExpressionRecognitionAcrossAge
+link:
 venue: "University of South Florida"
 location: "Tampa, Florida"
 ---
