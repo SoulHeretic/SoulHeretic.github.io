@@ -3,7 +3,7 @@ title: "Accomplished Projects"
 excerpt:
 collection:
 type: "Research"
-permalink: /_research/research.md
+permalink: /_research/accomplishedProjects.md
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"
