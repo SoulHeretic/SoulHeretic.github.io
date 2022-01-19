@@ -3,9 +3,10 @@ title: "Accomplished Projects"
 excerpt:
 collection:
 type: "Research"
-link: /biometrics/ContinuousAuthentication
-venue: "University of South Florida"
-location: "Tampa, Florida"
+permalink: /_research/research.md
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
 # Accomplished Projects
