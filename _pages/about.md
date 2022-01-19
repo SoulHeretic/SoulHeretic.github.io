@@ -24,12 +24,12 @@ Research Interests
 News
 ====
 
-# [Eficient Join Algorithms For Large Database Tables in a Multi-GPU Environment](/files/DrTuPaper1.pdf)
+# 1. [Eficient Join Algorithms For Large Database Tables in a Multi-GPU Environment](/files/DrTuPaper1.pdf)
 We designed three join algorithms with diferent out-of-core data transfer patterns and the same in-core join processing. By a series of experiments, we demonstrated that the inter-GPU communication and data exchange drastically afect the running time of the join algorithms.
 
 
 
-# [Counting frequent patterns in large labeled graphs: a hypergraph-based approach](/files/DrTuPaper2.pdf)
+# 2. [Counting frequent patterns in large labeled graphs: a hypergraph-based approach](/files/DrTuPaper2.pdf)
 We propose a new framework for studying support measures in frequent subgraph mining. This framework transforms pattern and data graph into hypergraphs containing occurrences and instances of the pattern as well as information of the original graph, in contrast to existing overlap graph techniques that only contain the former.
 
 
