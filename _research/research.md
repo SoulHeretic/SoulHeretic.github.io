@@ -1,7 +1,13 @@
 ---
-permalink: /_research/
 title: "Selected Research Projects"
+excerpt:
+collection:
+type: "Research"
+link:
+venue: "University of South Florida"
+location: "Tampa, Florida"
 ---
+
 
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
@@ -70,4 +76,3 @@ title: "Selected Research Projects"
 
   Maintaining a sustainable society via technological innovations has been a major challenge to scientists and engineers in the 21st century. With the total energy consumption of computing equipment increasing at a steep rate, much attention has been paid to the design of energy-effecient computing systems. Power-aware computing research at the applications level has been found to be synergistic to that at the system level (e.g., hardware and OS) because it can provide more opportunities of energy reduction for the underlying systems. In this project, we focus on database management systems (DBMS), which often consume a majority of the computing resources (and power) in modern data centers. We aim the design and implementation of a power-aware DBMS that can signiﬁcantly reduce energy use with graceful performance degradation. Our preliminary results have demonstrated great potential of this line of research.
     This project is supported by an [NSF](https://www.nsf.gov/) grant via its CISE core program ([IIS-001117699](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1117699)) and a Florida Energy Systems Consortium ([FESC](http://floridaenergy.ufl.edu/)) seed grant. Sample publications: [[ICDE10]](https://cse.usf.edu/~tuy/pub/ICDE10.pdf)[[SIGMODREC14]](https://cse.usf.edu/~tuy/pub/SIGREC12.pdf)[[ICDCS13]](https://cse.usf.edu/~tuy/pub/ICDCS13.pdf)
-
