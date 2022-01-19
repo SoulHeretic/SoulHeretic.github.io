@@ -1,13 +1,3 @@
----
-title: "Selected Research Projects"
-excerpt:
-collection:
-type: "Research"
-venue: "University of South Florida"
-location: "Tampa, Florida"
----
-
-
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
 
