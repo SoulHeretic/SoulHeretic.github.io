@@ -3,7 +3,6 @@ title: "Selected Research Projects"
 excerpt:
 collection:
 type: "Research"
-link:
 venue: "University of South Florida"
 location: "Tampa, Florida"
 ---
