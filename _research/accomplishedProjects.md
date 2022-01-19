@@ -1,4 +1,5 @@
 # <font size = "+6">Selected Research Projects</font>
+<br/>
 
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
