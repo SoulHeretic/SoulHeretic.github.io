@@ -1,13 +1,12 @@
 ---
-title: "Selected Research Projects"
+title: "Accomplished Projects"
 excerpt:
 collection:
 type: "Research"
-link:
+link: /biometrics/ContinuousAuthentication
 venue: "University of South Florida"
 location: "Tampa, Florida"
 ---
-
 
 # Accomplished Projects
 # 1. Load Shedding in Data Stream Management Systems.
