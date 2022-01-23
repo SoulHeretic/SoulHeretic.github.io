@@ -61,7 +61,7 @@ permalink:
 
 26. L. Qu and<b> Y. Tu. </b>Change Point Estimation of Bi-Level Functions. <i>Journal of Modern Applied Statistical Methods</i>. 5(2):347-355, November 2006. <a href="https://cse.usf.edu/~tuy/pub/JMASM06.pdf">pdf</a>
 
-27. <b>Tu</span></b>, J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 1(4):354-376., November 2005. <a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf"> pdf</a>
+27. <b>Tu</b>, J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 1(4):354-376., November 2005. <a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf"> pdf</a>
 
 28. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. <i>ACM/Springer Multimedia Systems. </i>9(6):575-585., June 2004. <a href="https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf"> pdf</a>
 
@@ -89,65 +89,33 @@ permalink:
 
 11. Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf">pdf</a>
 
-12. H. Li, D. Yu, A. Kumar, and Yi-Cheng Tu. Performance Modeling in CUDA Streams - A Means for High-Throughput Data Processing. In Procs. of <i>2nd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 301-310, Washington, DC, USA., October 2014.<a href="https://cse.usf.edu/~tuy/pub/BigData14.pdf">pdf</a></span>
+12. H. Li, D. Yu, A. Kumar, and Yi-Cheng Tu. Performance Modeling in CUDA Streams - A Means for High-Throughput Data Processing. In Procs. of <i>2nd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 301-310, Washington, DC, USA., October 2014.<a href="https://cse.usf.edu/~tuy/pub/BigData14.pdf">pdf</a>
 
-12. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i> 3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
+13. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i> 3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
 
-13. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i>3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
+14. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i>3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
 
-14. Miguel Rodriguez, Daladier Jabba, Elias Nino, Carlos Ardila, and Yi-Cheng Tu. Automata Theory Based Approach to the Join Ordering Problem in Relational Database Systems.  Procs. of <i>International Conference on Data Management Technologies and Applications </i> (<i>DATA</i>). Reykjavik, Iceland. July 29-31, 2013. (<b>Best Paper Nominee</b>)<a href="https://cse.usf.edu/~tuy/pub/DATA13.pdf">pdf</a>
+15. Miguel Rodriguez, Daladier Jabba, Elias Nino, Carlos Ardila, and Yi-Cheng Tu. Automata Theory Based Approach to the Join Ordering Problem in Relational Database Systems.  Procs. of <i>International Conference on Data Management Technologies and Applications </i> (<i>DATA</i>). Reykjavik, Iceland. July 29-31, 2013. (<b>Best Paper Nominee</b>)<a href="https://cse.usf.edu/~tuy/pub/DATA13.pdf">pdf</a>
+ 
+16. Zichen Xu, Xiaorui Wang, and Yi-Cheng Tu. Power-Aware Throughput Control for Database Management Systems. Procs. of <i>10th International Conference on Autonomic Computing</i> (<i>ICAC</i>).  <a href="https://cse.usf.edu/~tuy/pub/ICAC13.pdf">pdf</a>
 
+17. Zichen Xu, Yi-Cheng Tu, and Xiaorui Wang. Dynamic Energy Estimation of Query Plans in Database Systems. Procs. of <i> 33rd International Conference on Distributed Computing Systems</i> (<i>ICDCS</i>). <a href="https://cse.usf.edu/~tuy/pub/ICDCS13.pdf">pdf</a>
 
-   
-   Zichen Xu, Xiaorui Wang, and Yi-Cheng Tu. Power-Aware Throughput Control for Database Management Systems. Procs. of <i>
-   10th International Conference on Autonomic Computing</i> (<i>ICAC</i>).  <a href="https://cse.usf.edu/~tuy/pub/ICAC13.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+18. Jin Huang, Feiping Nie, Heng Huang, and Yi-Cheng Tu. Trust Prediction via Aggregating Heterogeneous Social Networks. Procs. of 21st ACM Conference on Information and Knowledge Management (CIKM). pp.1774-1778, Maui, Hawaii, Oct. 30 - Nov. 1, 2012. 
 
+20. A. Kumar, V. Grupcev, Y. Tu, Y. Yuan, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. In Procs. of 15th IEEE International Conference on Extending Database Technology (EDBT). pp.288-299, Berlin, Germany, March 26-30, 2012. 
 
-   
-   Zichen Xu, Yi-Cheng Tu, and Xiaorui Wang. Dynamic Energy Estimation of Query Plans in Database Systems. Procs. of <i>
-   33rd International Conference on Distributed Computing Systems</i> (<i>ICDCS</i>). <a href="https://cse.usf.edu/~tuy/pub/ICDCS13.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+21. L. Qu and Y. Tu. Noparametric Copula Estimation in Sensor Networks. In Procs. of 7th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), Beijing, China, December 16-18, 2011. 
 
-Jin Huang, Feiping Nie, Heng Huang, and Yi-Cheng Tu. Trust Prediction via Aggregating Heterogeneous Social Networks. Procs. of 21st ACM Conference on Information and Knowledge Management (CIKM). pp.1774-1778, Maui, Hawaii, Oct. 30 - Nov. 1, 2012. 
-A. Kumar, V. Grupcev, Y. Tu, Y. Yuan, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. In Procs. of 15th IEEE International Conference on Extending Database Technology (EDBT). pp.288-299, Berlin, Germany, March 26-30, 2012. 
-L. Qu and Y. Tu. Noparametric Copula Estimation in Sensor Networks. In Procs. of 7th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), Beijing, China, December 16-18, 2011. 
-L. Wang, J. Xu, M. Zhao, Y. Tu, and J. Fortes. Fuzzy Modeling Based Resource Management for Virtualized Database Systems. In Procs. of 19th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp.32-42, Singapore, July 25-27, 2011. 
-J. Ge, Y. Xia, and <b> Y. Tu</b>.
-A Discretization Algorithm for Uncertain Data. In Procs. of <i>
-21th International Conference on Database and Expert Systems Applications</i> (<i>DEXA</i>).
-pp.485-499, Bilbo, Spain, August 30 - September 3, 2010.
+23. L. Wang, J. Xu, M. Zhao, Y. Tu, and J. Fortes. Fuzzy Modeling Based Resource Management for Virtualized Database Systems. In Procs. of 19th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp.32-42, Singapore, July 25-27, 2011. 
 
-   Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Exploring Power-Performance
-   Tradeoffs in Database Systems. In <i>Procs. of 26th International 
-   Conference on Data Engineering </i>(<i>ICDE</i>), pp. 485-496, Long Beach, CA, 
-   March 2010. <a href="https://cse.usf.edu/~tuy/pub/ICDE10.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+24. J. Ge, Y. Xia, and <b> Y. Tu</b>. A Discretization Algorithm for Uncertain Data. In Procs. of <i>21th International Conference on Database and Expert Systems Applications</i> (<i>DEXA</i>). pp.485-499, Bilbo, Spain, August 30 - September 3, 2010.
 
+25. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Exploring Power-Performance Tradeoffs in Database Systems. In <i>Procs. of 26th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 485-496, Long Beach, CA, March 2010. <a href="https://cse.usf.edu/~tuy/pub/ICDE10.pdf">pdf</a>
 
-   Q. Biao, Y. Xia, S. Prabhakar, and<b> Y. Tu</b>.<b> </b>A Rule-Based 
-   Classification Algorithm for Uncertain Data.<b> </b>
-   </span><font face="Garamond" size="3"><i>International Workshop of 
-   Management and Mining of Uncertain Data</i> (<i>MOUND</i>), </font>
-   in <i>
-   conjunction with 25th International 
-   Conference on Data Engineering </i>(<i>ICDE</i>), 
-   </span>
-   <font face="Garamond" size="3">pp. 1633-1640, Shanghai,&nbsp; China, 
-   April 2, 2009. </font>
-   <span style="text-decoration: none">
-   <a href="https://cse.usf.edu/~tuy/pub/MOUND09.pdf">
-   <img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+26. Q. Biao, Y. Xia, S. Prabhakar, and<b> Y. Tu</b>.<b> </b>A Rule-Based Classification Algorithm for Uncertain Data.<i>International Workshop of Management and Mining of Uncertain Data</i> (<i>MOUND</i>), in <i> conjunction with 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 1633-1640, Shanghai,&nbsp; China, April 2, 2009. <a href="https://cse.usf.edu/~tuy/pub/MOUND09.pdf">pdf</a>
 
-
-   
-   <b> Y. Tu</b>, S. Chen, and S. Pandit. Computing Distance Histograms Efficiently in Scientific Databases. 
-   In <i>Procs. of 25th International 
-   Conference on Data Engineering </i>(<i>ICDE</i>), pp. 796-807, Shanghai, China, March 2009. (long paper 
-   with oral presentation, acceptance rate: 93/554=16.8%)
-   </span>
-   <span style="text-decoration: none">
-   <a href="https://cse.usf.edu/~tuy/pub/ICDE09.pdf">
-   <img id="_x0000_i1062" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></a></span><span style="font-size: 11pt; text-decoration: none; font-family:Garamond" lang="EN-US"><a href="https://cse.usf.edu/~tuy/pub/talks/ICDE09-notes.ppt"><img id="_x0000_i1069" height="18" src="ppt-Icon.gif" width="17" border="0"></a><span style="text-decoration: none">
-   </span><a href="https://cse.usf.edu/~tuy/pub/posters/ICDE09-poster.ppt">
-   <img id="_x0000_i1070" height="18" src="ppt-Icon.gif" width="17" border="0"></a></span>
+27. <b> Y. Tu</b>, S. Chen, and S. Pandit. Computing Distance Histograms Efficiently in Scientific Databases. In <i>Procs. of 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 796-807, Shanghai, China, March 2009. (long paper with oral presentation, acceptance rate: 93/554=16.8%) <a href="https://cse.usf.edu/~tuy/pub/ICDE09.pdf"> pdf</a> <a href="https://cse.usf.edu/~tuy/pub/talks/ICDE09-notes.ppt">ppt</a><a href="https://cse.usf.edu/~tuy/pub/posters/ICDE09-poster.ppt">ppt</a>
 
 
    Y. Xia, <b>Y. Tu</b>, M. 
@@ -235,10 +203,11 @@ Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order).
 VDBMS: A Testbed Facility for Research in Video Database 
 Benchmarking. In Proceedings of<i> Intl. Conf. on Distributed 
 Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
-<a href="https://cse.usf.edu/~tuy/pub/DMS03.pdf">
+<a href="https://cse.usf.edu/~tuy/pub/DMS03.pdf"> pdf</a>
 
-</ol>
-<h2><a name="Demo"></a>Software Demos / Short Papers</h2>
+
+# Software Demos / Short Papers
+
 <ol start="1">
    Mehrad Eslami, Yi-Cheng Tu, Hadi Charkhgard, Zichen Xu, and iacheng Liu. PsiDB: A Framework for Batched Query Processing and Optimization. In Procs. of IEEE International Conference on Big Data (BigData), pp. 6046-6048, Los Angeles, CA, USA, December 2019.
    Jinghan Meng, Yi-Cheng Tu, and Napath Pitaksirianan. A New Polynomial-time Support Measure for Counting Frequent Patterns in Graphs. In Procs. of ACM International Conference on Scientific and Statistical Database Management (SSDBM), pp. 214-217, Santa Cruz, CA, USA, June 2019.
