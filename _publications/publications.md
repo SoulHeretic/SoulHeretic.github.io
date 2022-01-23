@@ -1,4 +1,3 @@
-<html>
 <body>
 
 
@@ -964,4 +963,3 @@ S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Sci
 </div>
 
 </body>
-</html>
