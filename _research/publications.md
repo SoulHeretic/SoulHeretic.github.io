@@ -9,41 +9,37 @@ permalink:
 
 # Referred Journals
 
-	<ol>
-		<li><img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0">
-				Zhila Nouri-Lewis and <b>Yi-Cheng Tu</b>. G-PICS: A Framework for GPU-Based Spatial Indexing and Query Processing.
-To appear in IEEE Transactions on Knowledge and Data Engineering (TKDE).
+1. Zhila Nouri-Lewis and <b>Yi-Cheng Tu</b>. G-PICS: A Framework for GPU-Based Spatial Indexing and Query Processing. To appear in IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
-		<li><img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0"><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
-Ran Rui, Hao Li, and Yi-Cheng Tu. Efficient Join Algorithms for large Database Tables in a Multi-GPU Environment. Proceedings of the Very Large DataBase (VLDB) Endowment 14(4):708-720. 
+2. Ran Rui, Hao Li, and Yi-Cheng Tu. Efficient Join Algorithms for large Database Tables in a Multi-GPU Environment. Proceedings of the Very Large DataBase (VLDB) Endowment 14(4):708-720. 
 
-X. Liu, C. Li, C. Mou, Y. Dong, and Y. Tu. dbNSFP v4: A comprehensive database of transcript-specific functional predictions and annotations for human nonsynonymous and splice-site SNVs. Genome Medicine 12:103, December 2020. 
-		<li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">C. Li, C. Mou, M. Swartz, B. Yu, Y. Bai,
-            <b>Y. Tu</b>, and X. Liu.
-dbMTS: a comprehensive database of putative human microRNA target site SNVs and their functional predictions. Human Mutations 41(6):1123-1130.
+3. X. Liu, C. Li, C. Mou, Y. Dong, and Y. Tu. dbNSFP v4: A comprehensive database of transcript-specific functional predictions and annotations for human nonsynonymous and splice-site SNVs. Genome Medicine 12:103, December 2020. 
 
-	<li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and
-            <b>Yi-Cheng Tu</b>. 
-	Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020.<a href="../pub/COR20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+4. C. Li, C. Mou, M. Swartz, B. Yu, Y. Bai,<b>Y. Tu</b>, and X. Liu. dbMTS: a comprehensive database of putative human microRNA target site SNVs and their functional predictions. Human Mutations 41(6):1123-1130.
 
-	<li>
-Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020.<a href="../pub/COR20.pdf">
 
-	<li>Shuang Na, Kandethody Ramachandran, Ming Ji, and
-            <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
-Aditya Chandra Vothgod Ramachandra, Yin Lu, Minh Pham, Yi-Cheng Tu, and Feng Cheng. CuDDI: A CUDA-based application for extracting drug-drug interaction related substance terms from PubMed literature. Molecules 24(6):1081, 2019. 
-Hao Li, Yi-Cheng Tu, and Bo Zeng. Concurrent Query Processing in a GPU-Based Database System. Plos ONE 14(4): e0214720, April 2019. 
-Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Algorithms and Framework for Computing 2-body Statistics on GPUs. Distributed and Parallel Databases 37(4):587-622, December 2019. 
-Chengcheng Mou, Shaoping Chen, and Yi-Cheng Tu. A Comparative Study of Dual-tree Algorithms for Computing Spatial Distance Histograms. The Computer Journal 62(1):42-62, January 2019.
-Yin Lu, Bryan Figler, Hong Huang, Yi-Cheng Tu, Ju Wang and Feng Cheng. Characterization of the Mechanism of Drug-drug Interactions from PubMed using MeSH Terms. PLoS ONE 12(4), April 2017.
-Peyman Behzadnia, Wei Yuan, Bo Zeng and Yi-Cheng Tu. Energy-Aware Disk Storage Management: Online Approach with Applications in DBMS. International Journal of Database Management Systems 9(1), February 2017. 
-Yin Lu, Dan Shen, Maxwell Pietsch, Chetan Nagar, Zayd Fadli, Hong Huang, Yi-Cheng Tu, and Feng Cheng. A novel algorithm for analyzing drug-drug interactions from MEDLINE literature. Scientific Reports 5, 17357, November 2015. 
-        <li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
-            Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Online Energy Estimation of Relational Operations in Database Systems. <i>IEEE Transactions on Computers</i> (<i>TC</i>) 64(11):3223-3236, January 2015.
-            <a href="../pub/TC15.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
-        <li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
-            A. Kumar, V. Grupcev, M. Berrada, J. Fogarty, <b>Y. Tu</b>, X. Zhu, S. Pandit, and Y. Xia. DCMS: A data analytics and management system for molecular simulations. <i>Journal of Big Data</i> 2:9, November 2014.
-            <a href="https://cse.usf.edu/~tuy/pub/JBD14.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0">
+
+7. Shuang Na, Kandethody Ramachandran, Ming Ji, and <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf">
+	
+8. Aditya Chandra Vothgod Ramachandra, Yin Lu, Minh Pham, Yi-Cheng Tu, and Feng Cheng. CuDDI: A CUDA-based application for extracting drug-drug interaction related substance terms from PubMed literature. Molecules 24(6):1081, 2019. 
+	
+9. Hao Li, Yi-Cheng Tu, and Bo Zeng. Concurrent Query Processing in a GPU-Based Database System. Plos ONE 14(4): e0214720, April 2019. 
+
+10.Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Algorithms and Framework for Computing 2-body Statistics on GPUs. Distributed and Parallel Databases 37(4):587-622, December 2019. 
+	
+11. Chengcheng Mou, Shaoping Chen, and Yi-Cheng Tu. A Comparative Study of Dual-tree Algorithms for Computing Spatial Distance Histograms. The Computer Journal 62(1):42-62, January 2019.
+	
+12. Yin Lu, Bryan Figler, Hong Huang, Yi-Cheng Tu, Ju Wang and Feng Cheng. Characterization of the Mechanism of Drug-drug Interactions from PubMed using MeSH Terms. PLoS ONE 12(4), April 2017.
+	
+13. Peyman Behzadnia, Wei Yuan, Bo Zeng and Yi-Cheng Tu. Energy-Aware Disk Storage Management: Online Approach with Applications in DBMS. International Journal of Database Management Systems 9(1), February 2017. 
+	
+14. Yin Lu, Dan Shen, Maxwell Pietsch, Chetan Nagar, Zayd Fadli, Hong Huang, Yi-Cheng Tu, and Feng Cheng. A novel algorithm for analyzing drug-drug interactions from MEDLINE literature. Scientific Reports 5, 17357, November 2015. 
+
+15. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Online Energy Estimation of Relational Operations in Database Systems. <i>IEEE Transactions on Computers</i> (<i>TC</i>) 64(11):3223-3236, January 2015. <a href="../pub/TC15.pdf">
+
+16. A. Kumar, V. Grupcev, M. Berrada, J. Fogarty, <b>Y. Tu</b>, X. Zhu, S. Pandit, and Y. Xia. DCMS: A data analytics and management system for molecular simulations. <i>Journal of Big Data</i> 2:9, November 2014. <a href="https://cse.usf.edu/~tuy/pub/JBD14.pdf">
         
                     <li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
             A. Kumar, V. Grupcev, Y. Yuan, <b>Y. Tu</b>, Jin Huang, and G. Shen. Computing Spatial
