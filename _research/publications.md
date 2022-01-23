@@ -1,3 +1,12 @@
+---
+title: "Publications"
+excerpt: A list of many publications
+collection:
+type: "Research"
+permalink:
+
+---
+
 <body>
 
 
