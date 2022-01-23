@@ -129,19 +129,9 @@ permalink:
 
 31. L. Qu and <b>Y. Tu</b>. Change Point Estimation of Bar Code Signals. In Proceedings of <i>International Conference on Scientific Computing</i>, pp.109-114, Las Vegas, USA, June 2005. <a href="https://cse.usf.edu/~tuy/pub/CSC05.pdf"> pdf </a>
 
-   <b>Y. 
-   Tu</b>,</span></b> 
-   S. Prabhakar, A. Elmagarmid and R. Sion. QuaSAQ: An Approach to 
-   Enabling End-to-End QoS for Multimedia Databases. In Proceedings of<i> 
-   Intl. Conf. on Extending Database Technology (EDBT), </i>pp.694-711, 
-   Herakolin, Greece., March 2004.(acceptance rate: 42/294=14.2%).&nbsp;&nbsp;&nbsp;
-   <a href="https://cse.usf.edu/~tuy/pub/edbt04.ps">
-   <span style="text-decoration: none">
-   <img id="_x0000_i1040" height="18" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/edbt04.pdf"><span style="text-decoration: none"><img id="_x0000_i1041" height="18" src="pdf_icon.gif" width="40" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/talks/EDBT04.ppt"><span style="text-decoration: none"><img id="_x0000_i1042" height="18" src="ppt-Icon.gif" width="17" border="0"></span></a></span>
+32. <b>Y. Tu</b>, S. Prabhakar, A. Elmagarmid and R. Sion. QuaSAQ: An Approach to Enabling End-to-End QoS for Multimedia Databases. In Proceedings of<i> Intl. Conf. on Extending Database Technology (EDBT), </i>pp.694-711, Herakolin, Greece., March 2004.(acceptance rate: 42/294=14.2%). <a href="https://cse.usf.edu/~tuy/pub/edbt04.ps"> ps </a><a href="https://cse.usf.edu/~tuy/pub/edbt04.pdf"> pdf </a><a href="https://cse.usf.edu/~tuy/pub/talks/EDBT04.ppt"> ppt </a>
 
-
-   <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond; font-weight:700">Y. 
-   Tu</span></b>, 
+33.<b> Y. Tu</b>, 
    J. Sun and S. Prabhakar. Performance Analysis of A Hybrid Media 
    Streaming System. In Proceedings of <i>ACM/SPIE Conf. on Multimedia 
    Computing and Networking </i>(<i>MMCN</i>)<i>, </i>pp.69-82, San 
@@ -160,7 +150,6 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
 
 # Software Demos / Short Papers
 
-<ol start="1">
    Mehrad Eslami, Yi-Cheng Tu, Hadi Charkhgard, Zichen Xu, and iacheng Liu. PsiDB: A Framework for Batched Query Processing and Optimization. In Procs. of IEEE International Conference on Big Data (BigData), pp. 6046-6048, Los Angeles, CA, USA, December 2019.
    Jinghan Meng, Yi-Cheng Tu, and Napath Pitaksirianan. A New Polynomial-time Support Measure for Counting Frequent Patterns in Graphs. In Procs. of ACM International Conference on Scientific and Statistical Database Management (SSDBM), pp. 214-217, Santa Cruz, CA, USA, June 2019.
    <!--img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0"-->
