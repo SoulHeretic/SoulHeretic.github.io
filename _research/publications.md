@@ -87,8 +87,7 @@ permalink:
 
 10. Ran Rui, Hao Li, and <b>Yi-Cheng Tu</b>. Join algorithms on GPUs: A revisit after seven years. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 2541-2550, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-Join.pdf"> pdf</a>
 
-   
-   Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+11. Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a>
 
 
    
