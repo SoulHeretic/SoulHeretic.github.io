@@ -17,7 +17,7 @@ permalink:
 
 4. C. Li, C. Mou, M. Swartz, B. Yu, Y. Bai,<b>Y. Tu</b>, and X. Liu. dbMTS: a comprehensive database of putative human microRNA target site SNVs and their functional predictions. Human Mutations 41(6):1123-1130.
 
-5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020.<a href="../pub/COR20.pdf">
+5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020. <a href="../pub/COR20.pdf">
 
 6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf">
 
