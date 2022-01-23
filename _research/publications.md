@@ -310,7 +310,7 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
 	
 # Book Chapters
 	
-- <b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf">
+- <b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf"> pdf</a>
    
 
 # Technical Reports 
@@ -329,9 +329,9 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
       
 - Z. Xu, Y. Tu, and X. Wang. Model Evaluation of PAT: A Comprehensive Study. Technical Report CSE/12-039, Department of Computer Science and Engineering, University of South Florida, 2012. 
       
--  A. Kumar, V. Grupcev, Y. Yuan, Y. Tu, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. Technical Report CSE/11-053, Department of Computer Science and Engineering, University of South Florida, 2011. </li
+-  A. Kumar, V. Grupcev, Y. Yuan, Y. Tu, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. Technical Report CSE/11-053, Department of Computer Science and Engineering, University of South Florida, 2011.
       
-- V. Grupcev, Y. Yuan, Y. Tu, S. Chen, S. Pandit and M. Weng. On Fast Algorithms for Computing Spatial Distance Histograms (SDH). Technical Report CSE/11-052, Department of Computer Science and Engineering, University of South Florida, 2011. </li
+- V. Grupcev, Y. Yuan, Y. Tu, S. Chen, S. Pandit and M. Weng. On Fast Algorithms for Computing Spatial Distance Histograms (SDH). Technical Report CSE/11-052, Department of Computer Science and Engineering, University of South Florida, 2011.
 
 - <b>Y. Tu,</b> S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Scientific Databases. Technical Report CSE/08-103, Department of Computer Science and Engineering, University of South Florida, 2008.
 
