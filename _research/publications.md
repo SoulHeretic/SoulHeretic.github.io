@@ -131,69 +131,35 @@ permalink:
 
 32. <b>Y. Tu</b>, S. Prabhakar, A. Elmagarmid and R. Sion. QuaSAQ: An Approach to Enabling End-to-End QoS for Multimedia Databases. In Proceedings of<i> Intl. Conf. on Extending Database Technology (EDBT), </i>pp.694-711, Herakolin, Greece., March 2004.(acceptance rate: 42/294=14.2%). <a href="https://cse.usf.edu/~tuy/pub/edbt04.ps"> ps </a><a href="https://cse.usf.edu/~tuy/pub/edbt04.pdf"> pdf </a><a href="https://cse.usf.edu/~tuy/pub/talks/EDBT04.ppt"> ppt </a>
 
-33.<b> Y. Tu</b>, J. Sun and S. Prabhakar. Performance Analysis of A Hybrid Media Streaming System. In Proceedings of <i>ACM/SPIE Conf. on Multimedia Computing and Networking </i>(<i>MMCN</i>)<i>, </i>pp.69-82, San Jose, CA., January 2004.(acceptance rate: 18/74=24.3%)<a href="https://cse.usf.edu/~tuy/pub/spie04.ps"> ps </a>
+33. <b> Y. Tu</b>, J. Sun and S. Prabhakar. Performance Analysis of A Hybrid Media Streaming System. In Proceedings of <i>ACM/SPIE Conf. on Multimedia Computing and Networking </i>(<i>MMCN</i>)<i>, </i>pp.69-82, San Jose, CA., January 2004.(acceptance rate: 18/74=24.3%)<a href="https://cse.usf.edu/~tuy/pub/spie04.ps"> ps </a>
 
 34. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. In Proceedings of<i> Intl. Conf. on Distributed Multimedia Systems (DMS) 2003, </i>pp.160-166. <a href="https://cse.usf.edu/~tuy/pub/DMS03.pdf"> pdf</a>
 
 
 # Software Demos / Short Papers
 
-   Mehrad Eslami, Yi-Cheng Tu, Hadi Charkhgard, Zichen Xu, and iacheng Liu. PsiDB: A Framework for Batched Query Processing and Optimization. In Procs. of IEEE International Conference on Big Data (BigData), pp. 6046-6048, Los Angeles, CA, USA, December 2019.
-   Jinghan Meng, Yi-Cheng Tu, and Napath Pitaksirianan. A New Polynomial-time Support Measure for Counting Frequent Patterns in Graphs. In Procs. of ACM International Conference on Scientific and Statistical Database Management (SSDBM), pp. 214-217, Santa Cruz, CA, USA, June 2019.
-   <!--img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0"-->
+1. Mehrad Eslami, Yi-Cheng Tu, Hadi Charkhgard, Zichen Xu, and iacheng Liu. PsiDB: A Framework for Batched Query Processing and Optimization. In Procs. of IEEE International Conference on Big Data (BigData), pp. 6046-6048, Los Angeles, CA, USA, December 2019.
+ 
+2. Jinghan Meng, Yi-Cheng Tu, and Napath Pitaksirianan. A New Polynomial-time Support Measure for Counting Frequent Patterns in Graphs. In Procs. of ACM International Conference on Scientific and Statistical Database Management (SSDBM), pp. 214-217, Santa Cruz, CA, USA, June 2019.
+
+3. <b> Y. Tu</b>, A. Kumar, D. Yu, R. Rui, and R. Wheeler. Data Management Systems on GPUs: Promises and Challenges. To appear in <i>25th Scientific and Statistical Database Management Conference</i> (<i>SSDBM</i>). Baltimore, Maryland, USA., July 29-31, 2013. <a href="https://cse.usf.edu/~tuy/pub/SSDBM13.pdf"> pdf </a>
+
+4. D. Yu, H. Yang, and <b> Y. Tu</b>. Parallel computing simulation of electrical excitation and conduction in a 3D human heart. To appear in <i>7th INFORMS Workshop on Data Mining and Health Informatics</i>. Phoenix, AZ, USA., November 2012. <a href="https://cse.usf.edu/~tuy/pub/INFORMS-DMHI12.pdf"> pdf </a>
    
-   <b> Y. Tu</b>, A. Kumar, D. Yu, R. Rui, and R. Wheeler.
-   Data Management Systems on GPUs: Promises and Challenges. To appear in <i>25th Scientific and Statistical Database Management Conference</i> (<i>SSDBM</i>). Baltimore, Maryland, USA., July 29-31, 2013. <a href="https://cse.usf.edu/~tuy/pub/SSDBM13.pdf">
-   a
-   D. Yu, H. Yang, and <b> Y. Tu</b>.
-   Parallel computing simulation of electrical excitation and conduction in a 3D human heart. To appear in <i>7th INFORMS Workshop on Data Mining and Health Informatics</i>. Phoenix, AZ, USA., November 2012. <a href="https://cse.usf.edu/~tuy/pub/INFORMS-DMHI12.pdf">
-   
-   <b> Y. Tu</b>, S. Chen, S. Pandit, A. Kumar and V. Grupcev.
-   Efficient SDH Computation In Molecular Simulations Data. To appear in <i>Proceedings of ACM Conference on Bioinformatics, Computational Biology, and Biomedicine </i> (<i>ACM-BCB</i>), Orlando, FL, USA., October 2012. <a href="https://cse.usf.edu/~tuy/pub/BCB12.pdf">
-   
-   Z. Xu, <b> Y. Tu</b>, and X. Wang.
-   PET: Reducing Database Energy Cost via Query Optimization. <i>Proceedings of Very Large Database Endowment</i> (<i>VLDB</i>), 5(12):1954-1957, August 2012. <a href="https://cse.usf.edu/~tuy/pub/VLDB12.pdf">
-   
-   <b> 
-   Y.Tu</b>, X. Wang, and Z. Xu. Power-Aware DBMS: Potential and Challenges. 
-   Procs. of<i> 23rd Scientific and Statistical Database Management Conference</i> (<i>SSDBM</i>), 
-   pp.598-599. Portland, OR, USA. July 20-22, 2011. 
-   <a href="https://cse.usf.edu/~tuy/pub/SSDBM11.pdf">
+5. <b> Y. Tu</b>, S. Chen, S. Pandit, A. Kumar and V. Grupcev. Efficient SDH Computation In Molecular Simulations Data. To appear in <i>Proceedings of ACM Conference on Bioinformatics, Computational Biology, and Biomedicine </i> (<i>ACM-BCB</i>), Orlando, FL, USA., October 2012. <a href="https://cse.usf.edu/~tuy/pub/BCB12.pdf"> pdf</a>
+
+6. Z. Xu, <b> Y. Tu</b>, and X. Wang. PET: Reducing Database Energy Cost via Query Optimization. <i>Proceedings of Very Large Database Endowment</i> (<i>VLDB</i>), 5(12):1954-1957, August 2012. <a href="https://cse.usf.edu/~tuy/pub/VLDB12.pdf"> pdf </a>
+
+7. <b>Y.Tu</b>, X. Wang, and Z. Xu. Power-Aware DBMS: Potential and Challenges. Procs. of<i> 23rd Scientific and Statistical Database Management Conference</i> (<i>SSDBM</i>), 
+   pp.598-599. Portland, OR, USA. July 20-22, 2011. <a href="https://cse.usf.edu/~tuy/pub/SSDBM11.pdf"> pdf </a>
       
-         
-         Q. Biao, Y. Xia, R. Sathyesh, S. Prabhakar, and<b> Y. Tu</b>.<b> </b>
-         uRule: A Rule-Based 
-         Classification System for Uncertain Data. In Procs. of <i>
-         IEEE International Conference on Data Mining</i> (<i>ICDM</i>), pp.1415-1418, 
-         Miami, FL, December 6-9, 2009.
-   <a href="https://cse.usf.edu/~tuy/pub/ICDM09.pdf">
-   
-   <b> 
-   Y. Tu</b>, S. Liu, S. Prabhakar, B. Yao, and W. Schroeder. Using 
-   Control Theory for Load Shedding in Data Stream Management. Procs. of<i> Intl. Conf. Data Engineering</i> (<i>ICDE</i>), 
-   pp.1491-1492. Istanbul, Turkey, April 2007. </span>
-   
-   <a href="https://cse.usf.edu/~tuy/pub/icde02.pdf">
-   <span style="text-decoration: none">
-   <a href="https://cse.usf.edu/~tuy/pub/ICDE07.pdf">
-   <img id="_x0000_i1065" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></a></span>
-   <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond; font-weight:700">Y.
-   Tu</span></b>
-   and S. Prabhakar. Control-Based Load Shedding in Data Stream
-   Management Systems. PhD Workshop, in conjunction with ICDE 2006.&nbsp;
-   <a href="https://cse.usf.edu/~tuy/pub/ICDE06.ps">
-   <span style="text-decoration: none">
-   <img id="_x0000_i1031" height="18" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/ICDE06.pdf"><span style="text-decoration: none"><img id="_x0000_i1032" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span></p>
-   W. 
-   Aref, A. Elmagarmid, J. Fan, J. Guo, M. Hammad, I. Ilyas, M. Marzouk, 
-   S. Prabhakar, A. Rezgui, A. Teoh, E. Terzi, <b>Y. Tu</b>, A. Vakali, 
-   X. Zhu (alphabetical order). A Distributed Database Server for 
-   Continuous Media. Procs. of<i> Intl. Conf. on Data 
-   Engineering (ICDE), </i>pp.490-491<i>. </i>San Jose, CA., March 
-   2002.&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://cse.usf.edu/~tuy/pub/icde02.pdf">
-   <span style="text-decoration: none">
-   <img id="_x0000_i1047" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
+8. Q. Biao, Y. Xia, R. Sathyesh, S. Prabhakar, and<b> Y. Tu</b>. uRule: A Rule-Based Classification System for Uncertain Data. In Procs. of <i> IEEE International Conference on Data Mining</i> (<i>ICDM</i>), pp.1415-1418, Miami, FL, December 6-9, 2009. <a href="https://cse.usf.edu/~tuy/pub/ICDM09.pdf"> pdf </a>  
+
+9. <b>Y. Tu</b>, S. Liu, S. Prabhakar, B. Yao, and W. Schroeder. Using Control Theory for Load Shedding in Data Stream Management. Procs. of<i> Intl. Conf. Data Engineering</i> (<i>ICDE</i>), pp.1491-1492. Istanbul, Turkey, April 2007. <a href="https://cse.usf.edu/~tuy/pub/ICDE07.pdf"> pdf </a>
+
+10. Y. Tu</b> and S. Prabhakar. Control-Based Load Shedding in Data Stream Management Systems. PhD Workshop, in conjunction with ICDE 2006. <a href="https://cse.usf.edu/~tuy/pub/ICDE06.ps"> ps</a> <a href="https://cse.usf.edu/~tuy/pub/ICDE06.pdf">pdf</a>
+
+11. W. Aref, A. Elmagarmid, J. Fan, J. Guo, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, A. Rezgui, A. Teoh, E. Terzi, <b>Y. Tu</b>, A. Vakali, X. Zhu (alphabetical order). A Distributed Database Server for Continuous Media. Procs. of<i> Intl. Conf. on Data Engineering (ICDE), </i>pp.490-491<i>. </i>San Jose, CA., March 2002. <a href="https://cse.usf.edu/~tuy/pub/icde02.pdf"> pdf </a>
 	
 # Book Chapters
 	
