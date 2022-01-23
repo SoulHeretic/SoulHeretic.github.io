@@ -310,108 +310,47 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
 	
 # Book Chapters
 	
-<b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf">
+- <b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf">
    
 
 # Technical Reports 
-   <ul>
-      M. Eslami, Y. Tu, and H. Charkhgard. A System for Batched Query Processing and Optimization. Technical Report CSE/18-088, Department of Computer Science and Engineering, University of South Florida, 2018. 
-      Jinghan Meng, Napath Pitaksirianan, and Y. Tu. Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs. Technical Report CSE/18-002, Department of Computer Science and Engineering, University of South Florida, 2018. 
-      H. Li, Y. Tu, and B. Zeng. Two-Stage Modeling and Control of Concurrent Tasks in a Multi-Kernel GPGPU Environment. Technical Report CSE/16-022, Department of Computer Science and Engineering, University of South Florida, 2016. 
-      R. Rui, H. Li, and Y. Tu. Performance Analysis of Join Algorithms on GPUs. Technical Report CSE/14-016, Department of Computer Science and Engineering, University of South Florida, 2014. 
-      A. Kumar, X. Zhu, Y. Tu, and S. Pandit. Compression in Molecular Simulation Datasets. Technical Report CSE/12-061, Department of Computer Science and Engineering, University of South Florida, 2012. 
+	
+- M. Eslami, Y. Tu, and H. Charkhgard. A System for Batched Query Processing and Optimization. Technical Report CSE/18-088, Department of Computer Science and Engineering, University of South Florida, 2018. 
+	
+- Jinghan Meng, Napath Pitaksirianan, and Y. Tu. Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs. Technical Report CSE/18-002, Department of Computer Science and Engineering, University of South Florida, 2018.
+	
+- H. Li, Y. Tu, and B. Zeng. Two-Stage Modeling and Control of Concurrent Tasks in a Multi-Kernel GPGPU Environment. Technical Report CSE/16-022, Department of Computer Science and Engineering, University of South Florida, 2016. 
+	
+- R. Rui, H. Li, and Y. Tu. Performance Analysis of Join Algorithms on GPUs. Technical Report CSE/14-016, Department of Computer Science and Engineering, University of South Florida, 2014. 
+	
+- A. Kumar, X. Zhu, Y. Tu, and S. Pandit. Compression in Molecular Simulation Datasets. Technical Report CSE/12-061, Department of Computer Science and Engineering, University of South Florida, 2012. 
       
-      Z. Xu, Y. Tu, and X. Wang. Power Modeling in Database Mansgement Systems. Technical Report CSE/12-094, Department of Computer Science and Engineering, University of South Florida, 2012. 
+- Z. Xu, Y. Tu, and X. Wang. Power Modeling in Database Mansgement Systems. Technical Report CSE/12-094, Department of Computer Science and Engineering, University of South Florida, 2012. 
       
-      Z. Xu, Y. Tu, and X. Wang. Model Evaluation of PAT: A Comprehensive Study. Technical Report CSE/12-039, Department of Computer Science and Engineering, University of South Florida, 2012. 
+- Z. Xu, Y. Tu, and X. Wang. Model Evaluation of PAT: A Comprehensive Study. Technical Report CSE/12-039, Department of Computer Science and Engineering, University of South Florida, 2012. 
       
-      A. Kumar, V. Grupcev, Y. Yuan, Y. Tu, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. Technical Report CSE/11-053, Department of Computer Science and Engineering, University of South Florida, 2011. </li
+-  A. Kumar, V. Grupcev, Y. Yuan, Y. Tu, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. Technical Report CSE/11-053, Department of Computer Science and Engineering, University of South Florida, 2011. </li
       
-      V. Grupcev, Y. Yuan, Y. Tu, S. Chen, S. Pandit and M. Weng. On Fast Algorithms for Computing Spatial Distance Histograms (SDH). Technical Report CSE/11-052, Department of Computer Science and Engineering, University of South Florida, 2011. </li
+- V. Grupcev, Y. Yuan, Y. Tu, S. Chen, S. Pandit and M. Weng. On Fast Algorithms for Computing Spatial Distance Histograms (SDH). Technical Report CSE/11-052, Department of Computer Science and Engineering, University of South Florida, 2011. </li
+
+- <b>Y. Tu,</b> S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Scientific Databases. Technical Report CSE/08-103, Department of Computer Science and Engineering, University of South Florida, 2008.
+
+-  Y. Tu , S. Prabhakar, J. Yan,<b> </b>and G. Shen. Multi-Quality Data Replication in Multimedia Databases. Technical Report CSD-TR-06-009, Department of Computer Sciences, Purdue University, 2006.<a href="https://cse.usf.edu/~tuy/pub/tr/06009.ps">
+
+- <b> Y. Tu,</b> S. Liu, S. Prabhakar, and B. Yao. Load Shedding in Stream Databases &#8211; A Control-Based Approach. Technical Report CSD-TR-06-006, Department of Computer Sciences, Purdue University, 2006. <a href="https://cse.usf.edu/~tuy/pub/06006.pdf"> <a href="https://cse.usf.edu/~tuy/pub/tr/06006.pdf">
       
-         <b>
-         Y.
-         Tu, </span></b>
-         
-         S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Scientific Databases. Technical Report CSE/08-103, Department of Computer Science and Engineering, University of South Florida, 2008. </li
-         Y. 
-         Tu, </span></b>
-         
-            S. 
-            Prabhakar, J. Yan,<b> </b>and G. Shen. Multi-Quality Data 
-            Replication in Multimedia Databases. Technical Report CSD-TR-06-009, 
-            Department of Computer Sciences, Purdue University, 2006.
-            <a href="https://cse.usf.edu/~tuy/pub/tr/06009.ps">
-      <b>
-      Y. 
-      Tu, </span></b>
-      S. 
-      Liu, S. Prabhakar, and B. Yao.<b> </b>Load Shedding in Stream 
-      Databases &#8211; A Control-Based Approach. Technical Report 
-      CSD-TR-06-006, Department of Computer Sciences, Purdue University, 
-      2006. <a href="https://cse.usf.edu/~tuy/pub/06006.pdf">
-      <span style="text-decoration: none">
-      <a href="https://cse.usf.edu/~tuy/pub/tr/06006.pdf">
-      <img id="_x0000_i1050" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></a></span>
-      <b>
-      Y. 
-      Tu, </span></b>
-      J. 
-      Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of 
-      Peer-to-Peer Media Streaming Systems. Technical Report CSD-TR-05-11, 
-      Department of Computer Sciences, Purdue University, 2005.
-      <a href="https://cse.usf.edu/~tuy/pub/tr/0511.ps">
-      <span style="text-decoration: none">
-      <img id="_x0000_i1051" height="18" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/tr/0511.pdf"><span style="text-decoration: none"><img id="_x0000_i1052" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
+- <b> Y. Tu, </b> J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. Technical Report CSD-TR-05-11, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0511.ps"> <a href="https://cse.usf.edu/~tuy/pub/tr/0511.pdf">
       
-      R. 
-      Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive 
-      Stream Filters for Entity-Based Queries with Non-Value Tolerance. 
-      Technical Report CSD-TR-05-03, Department of Computer Sciences, 
-      Purdue University, 2005.
-      <a href="https://cse.usf.edu/~tuy/pub/tr/0503.pdf">
-      <span style="text-decoration: none">
-      <img id="_x0000_i1053" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
-      <b>
-      Y. 
-      Tu</span></b>, 
-      S. Prabhakar and A. Elmagarmid. An Database-Centric Approach to 
-      Enabling End-to-End QoS for Multimedia Repositories. Technical 
-      Report CSD-TR-0331, Department of Computer Sciences, Purdue 
-      University, 2003.&nbsp;
-      <img id="_x0000_i1054" height="18" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/tr/0331.pdf"><span style="text-decoration: none"><img id="_x0000_i1055" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
-      <b>
-         Y. 
-         Tu</span></b> 
-         and S. Lei. Towards Cost-Effective Media Streaming Service: A 
-         Peer-to-Peer Approach. Technical Report CSD-TR-0323, Department of 
-         Computer Sciences, Purdue University, 2003.
-         <a href="https://cse.usf.edu/~tuy/pub/tr/0323.ps">
-         <span style="text-decoration: none">
-         <img id="_x0000_i1056" height="17" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/tr/0323.pdf"><span style="text-decoration: none"><img id="_x0000_i1057" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
-      
-   </ul>
+- R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive Stream Filters for Entity-Based Queries with Non-Value Tolerance. Technical Report CSD-TR-05-03, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0503.pdf">
+
+- <b>Y. Tu</b>, S. Prabhakar and A. Elmagarmid. An Database-Centric Approach to Enabling End-to-End QoS for Multimedia Repositories. Technical Report CSD-TR-0331, Department of Computer Sciences, Purdue University, 2003.&nbsp; <a href="https://cse.usf.edu/~tuy/pub/tr/0331.pdf">
+
+- <b>Y. Tu</b> and S. Lei. Towards Cost-Effective Media Streaming Service: A Peer-to-Peer Approach. Technical Report CSD-TR-0323, Department of Computer Sciences, Purdue University, 2003. <a href="https://cse.usf.edu/~tuy/pub/tr/0323.ps"> <a href="https://cse.usf.edu/~tuy/pub/tr/0323.pdf">
+
 # Non-CS Publications
-      <b>
-         Y. 
-         Tu.</span></b> 
-         Endogenous Gibberellins in Developing Apple Seeds in Relation to 
-         Biennial Bearing. Master's thesis. Purdue University. (<a href="http://expert.ics.purdue.edu/~tuy/thesis/thesis.htm">html</a>,
-         <a href="https://cse.usf.edu/~tuy/pub/MS_thesis.pdf">pdf</a>)</span>
+
+- <b>Y. Tu.</b> Endogenous Gibberellins in Developing Apple Seeds in Relation to Biennial Bearing. Master's thesis. Purdue University. (<a href="http://expert.ics.purdue.edu/~tuy/thesis/thesis.htm">html</a>, <a href="https://cse.usf.edu/~tuy/pub/MS_thesis.pdf">pdf</a>)
       
-      
-         S. 
-         H. Li, Z. Q. Meng, H. Z. Liu, <b>Y. Tu</b>. Critical Period of 
-         Flower Bud Induction of 'Red Fuji' and 'Ralls Janet' Apple Trees. </span>
-         
-         <i>
-         European Journal of Horticultural Sciences </i>(formerly<i>
-         </i> </span>
-         
-         <i>Gartenbauwissenschaft</i>)<i> 60: 240-245.</i> </span>
-      
-      
-         S. 
-         H. Li, Z. Q. Meng, H. Z. Liu, <b>Y. Tu</b>. New Methods to Research 
-         the Critical Period of Flower Bud Induction in Apple Trees. <i>
-         Advances in Horticulture 1994:338-341 </i>(Chinese)<i>.</i></span> 
+- S. H. Li, Z. Q. Meng, H. Z. Liu, <b>Y. Tu</b>. Critical Period of Flower Bud Induction of 'Red Fuji' and 'Ralls Janet' Apple Trees.<i> European Journal of Horticultural Sciences </i>(formerly <i>Gartenbauwissenschaft</i>)<i> 60: 240-245.</i>
+
+- S. H. Li, Z. Q. Meng, H. Z. Liu, <b>Y. Tu</b>. New Methods to Research the Critical Period of Flower Bud Induction in Apple Trees. <i> Advances in Horticulture 1994:338-341 </i>(Chinese)<i>.</i>
