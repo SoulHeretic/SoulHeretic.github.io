@@ -7,15 +7,10 @@ permalink:
 
 ---
 
-<body>
-					
-
-	<div id="content" style="width: 710px">
-
-	<h2><a name="Journal"></a>Refereed Journals</h2>
+# Referred Journals
 
 	<ol>
-		<li><img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0"><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
+		<li><img id="_x0000_i1071" height="11" src="new.gif" width="28" border="0">
 				Zhila Nouri-Lewis and <b>Yi-Cheng Tu</b>. G-PICS: A Framework for GPU-Based Spatial Indexing and Query Processing.
 To appear in IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
@@ -31,10 +26,10 @@ dbMTS: a comprehensive database of putative human microRNA target site SNVs and 
             <b>Yi-Cheng Tu</b>. 
 	Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020.<a href="../pub/COR20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
 
-	<li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
+	<li>
 Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
 
-	<li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">Shuang Na, Kandethody Ramachandran, Ming Ji, and
+	<li>Shuang Na, Kandethody Ramachandran, Ming Ji, and
             <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
 Aditya Chandra Vothgod Ramachandra, Yin Lu, Minh Pham, Yi-Cheng Tu, and Feng Cheng. CuDDI: A CUDA-based application for extracting drug-drug interaction related substance terms from PubMed literature. Molecules 24(6):1081, 2019. 
 Hao Li, Yi-Cheng Tu, and Bo Zeng. Concurrent Query Processing in a GPU-Based Database System. Plos ONE 14(4): e0214720, April 2019. 
@@ -687,14 +682,3 @@ S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Sci
 	<p>&nbsp;</p>
 	<p>&nbsp;</div>
 
-	<div id="footer" style="width: 855px; height: 38px">
-
-		<p><font face="Verdana" size="1">Copyright 2012 | By <a href="mailto:ytu@cse.usf.edu">
-
-		Yicheng Tu</a> | 
-<script language="javascript"> months = ['January', 'Febraury', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']; var d=new Date(); var weekday=new Array(7); weekday[0]="Sunday"; weekday[1]="Monday"; weekday[2]="Tuesday"; weekday[3]="Wednesday"; weekday[4]="Thursday"; weekday[5]="Friday"; weekday[6]="Saturday"; var d = new Date(); (d.getFullYear()); var theDate = new Date(document.lastModified); theDate.setTime((theDate.getTime()+(60*60)) ) with (theDate) { document.write("Last updated "+weekday[getDay()]+' '+getDate()+' '+months[getMonth()]+' '+d.getFullYear()+' '+getHours()+':'+getMinutes()+" GMT") } </script>
-	</div>
-
-</div>
-
-</body>
