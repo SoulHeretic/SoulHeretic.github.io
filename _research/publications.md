@@ -87,24 +87,15 @@ permalink:
 
 10. Ran Rui, Hao Li, and <b>Yi-Cheng Tu</b>. Join algorithms on GPUs: A revisit after seven years. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 2541-2550, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-Join.pdf"> pdf</a>
 
-11. Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a>
+11. Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf">pdf</a>
 
+12. H. Li, D. Yu, A. Kumar, and Yi-Cheng Tu. Performance Modeling in CUDA Streams - A Means for High-Throughput Data Processing. In Procs. of <i>2nd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 301-310, Washington, DC, USA., October 2014.<a href="https://cse.usf.edu/~tuy/pub/BigData14.pdf">pdf</a></span>
 
-   
-   H. Li, D. Yu, A. Kumar, and Yi-Cheng Tu. Performance Modeling in CUDA Streams - A Means for High-Throughput Data Processing. In Procs. of <i>2nd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 301-310, Washington, DC, USA., October 2014.<a href="https://cse.usf.edu/~tuy/pub/BigData14.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+12. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i> 3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
 
+13. Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i>3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf">pdf</a>
 
-   Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i>
-   3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
-
-
-   Anand Kumar, Xingquan Zhu, Yi-Cheng Tu, and Sagar Pandit. Compression of Molecular Simulation Datasets. Procs. of <i>
-   3rd International Conference on Intelligence Science and Big Data Engineering </i> (<i>ISciDE</i>).  Beijing , China. July 31 - August 2, 2013.<a href="https://cse.usf.edu/~tuy/pub/ISCIDE13.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
-
-
-   
-   Miguel Rodriguez, Daladier Jabba, Elias Nino, Carlos Ardila, and Yi-Cheng Tu. Automata Theory Based Approach to the Join Ordering Problem in Relational Database Systems.  Procs. of <i>
-   International Conference on Data Management Technologies and Applications </i> (<i>DATA</i>). Reykjavik, Iceland. July 29-31, 2013. (<b>Best Paper Nominee</b>)<a href="https://cse.usf.edu/~tuy/pub/DATA13.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
+14. Miguel Rodriguez, Daladier Jabba, Elias Nino, Carlos Ardila, and Yi-Cheng Tu. Automata Theory Based Approach to the Join Ordering Problem in Relational Database Systems.  Procs. of <i>International Conference on Data Management Technologies and Applications </i> (<i>DATA</i>). Reykjavik, Iceland. July 29-31, 2013. (<b>Best Paper Nominee</b>)<a href="https://cse.usf.edu/~tuy/pub/DATA13.pdf">pdf</a>
 
 
    
@@ -309,7 +300,7 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
 	
 # Book Chapters
 	
-- <b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf"> pdf</a>
+1. <b>Yi-Cheng Tu</b>, Gang Ding. Control-Based Database Tuning Under Dynamic Workloads. Vol. I., <i>Encyclopedia of Data Warehousing and Mining</i>, 2rd edition. pp.333-338, IGI Global, 2008. <a href="https://cse.usf.edu/~tuy/pub/EDWM08.pdf"> pdf</a>
    
 
 # Technical Reports 
