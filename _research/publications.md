@@ -131,21 +131,9 @@ permalink:
 
 32. <b>Y. Tu</b>, S. Prabhakar, A. Elmagarmid and R. Sion. QuaSAQ: An Approach to Enabling End-to-End QoS for Multimedia Databases. In Proceedings of<i> Intl. Conf. on Extending Database Technology (EDBT), </i>pp.694-711, Herakolin, Greece., March 2004.(acceptance rate: 42/294=14.2%). <a href="https://cse.usf.edu/~tuy/pub/edbt04.ps"> ps </a><a href="https://cse.usf.edu/~tuy/pub/edbt04.pdf"> pdf </a><a href="https://cse.usf.edu/~tuy/pub/talks/EDBT04.ppt"> ppt </a>
 
-33.<b> Y. Tu</b>, 
-   J. Sun and S. Prabhakar. Performance Analysis of A Hybrid Media 
-   Streaming System. In Proceedings of <i>ACM/SPIE Conf. on Multimedia 
-   Computing and Networking </i>(<i>MMCN</i>)<i>, </i>pp.69-82, San 
-   Jose, CA., January 2004.(acceptance rate: 18/74=24.3%)&nbsp;&nbsp;&nbsp;
-   <a href="https://cse.usf.edu/~tuy/pub/spie04.ps">
+33.<b> Y. Tu</b>, J. Sun and S. Prabhakar. Performance Analysis of A Hybrid Media Streaming System. In Proceedings of <i>ACM/SPIE Conf. on Multimedia Computing and Networking </i>(<i>MMCN</i>)<i>, </i>pp.69-82, San Jose, CA., January 2004.(acceptance rate: 18/74=24.3%)<a href="https://cse.usf.edu/~tuy/pub/spie04.ps"> ps </a>
 
-
-W. 
-Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. 
-Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). 
-VDBMS: A Testbed Facility for Research in Video Database 
-Benchmarking. In Proceedings of<i> Intl. Conf. on Distributed 
-Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
-<a href="https://cse.usf.edu/~tuy/pub/DMS03.pdf"> pdf</a>
+34. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. In Proceedings of<i> Intl. Conf. on Distributed Multimedia Systems (DMS) 2003, </i>pp.160-166. <a href="https://cse.usf.edu/~tuy/pub/DMS03.pdf"> pdf</a>
 
 
 # Software Demos / Short Papers
@@ -206,7 +194,6 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
    <a href="https://cse.usf.edu/~tuy/pub/icde02.pdf">
    <span style="text-decoration: none">
    <img id="_x0000_i1047" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span>
-</ol>
 	
 # Book Chapters
 	
