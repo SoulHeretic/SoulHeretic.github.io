@@ -103,80 +103,32 @@ permalink:
 
 18. Jin Huang, Feiping Nie, Heng Huang, and Yi-Cheng Tu. Trust Prediction via Aggregating Heterogeneous Social Networks. Procs. of 21st ACM Conference on Information and Knowledge Management (CIKM). pp.1774-1778, Maui, Hawaii, Oct. 30 - Nov. 1, 2012. 
 
-20. A. Kumar, V. Grupcev, Y. Tu, Y. Yuan, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. In Procs. of 15th IEEE International Conference on Extending Database Technology (EDBT). pp.288-299, Berlin, Germany, March 26-30, 2012. 
+19. A. Kumar, V. Grupcev, Y. Tu, Y. Yuan, and G. Shen. Distance Histogram Computation Based on Spatiotemporal Uniformity in Scientific Data. In Procs. of 15th IEEE International Conference on Extending Database Technology (EDBT). pp.288-299, Berlin, Germany, March 26-30, 2012. 
 
-21. L. Qu and Y. Tu. Noparametric Copula Estimation in Sensor Networks. In Procs. of 7th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), Beijing, China, December 16-18, 2011. 
+20. L. Qu and Y. Tu. Noparametric Copula Estimation in Sensor Networks. In Procs. of 7th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN), Beijing, China, December 16-18, 2011. 
 
-23. L. Wang, J. Xu, M. Zhao, Y. Tu, and J. Fortes. Fuzzy Modeling Based Resource Management for Virtualized Database Systems. In Procs. of 19th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp.32-42, Singapore, July 25-27, 2011. 
+21. L. Wang, J. Xu, M. Zhao, Y. Tu, and J. Fortes. Fuzzy Modeling Based Resource Management for Virtualized Database Systems. In Procs. of 19th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp.32-42, Singapore, July 25-27, 2011. 
 
-24. J. Ge, Y. Xia, and <b> Y. Tu</b>. A Discretization Algorithm for Uncertain Data. In Procs. of <i>21th International Conference on Database and Expert Systems Applications</i> (<i>DEXA</i>). pp.485-499, Bilbo, Spain, August 30 - September 3, 2010.
+22. J. Ge, Y. Xia, and <b> Y. Tu</b>. A Discretization Algorithm for Uncertain Data. In Procs. of <i>21th International Conference on Database and Expert Systems Applications</i> (<i>DEXA</i>). pp.485-499, Bilbo, Spain, August 30 - September 3, 2010.
 
-25. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Exploring Power-Performance Tradeoffs in Database Systems. In <i>Procs. of 26th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 485-496, Long Beach, CA, March 2010. <a href="https://cse.usf.edu/~tuy/pub/ICDE10.pdf">pdf</a>
+23. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Exploring Power-Performance Tradeoffs in Database Systems. In <i>Procs. of 26th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 485-496, Long Beach, CA, March 2010. <a href="https://cse.usf.edu/~tuy/pub/ICDE10.pdf">pdf</a>
 
-26. Q. Biao, Y. Xia, S. Prabhakar, and<b> Y. Tu</b>.<b> </b>A Rule-Based Classification Algorithm for Uncertain Data.<i>International Workshop of Management and Mining of Uncertain Data</i> (<i>MOUND</i>), in <i> conjunction with 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 1633-1640, Shanghai,&nbsp; China, April 2, 2009. <a href="https://cse.usf.edu/~tuy/pub/MOUND09.pdf">pdf</a>
+24. Q. Biao, Y. Xia, S. Prabhakar, and<b> Y. Tu</b>.<b> </b>A Rule-Based Classification Algorithm for Uncertain Data.<i>International Workshop of Management and Mining of Uncertain Data</i> (<i>MOUND</i>), in <i> conjunction with 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 1633-1640, Shanghai,&nbsp; China, April 2, 2009. <a href="https://cse.usf.edu/~tuy/pub/MOUND09.pdf">pdf</a>
 
-27. <b> Y. Tu</b>, S. Chen, and S. Pandit. Computing Distance Histograms Efficiently in Scientific Databases. In <i>Procs. of 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 796-807, Shanghai, China, March 2009. (long paper with oral presentation, acceptance rate: 93/554=16.8%) <a href="https://cse.usf.edu/~tuy/pub/ICDE09.pdf"> pdf</a> <a href="https://cse.usf.edu/~tuy/pub/talks/ICDE09-notes.ppt">ppt</a><a href="https://cse.usf.edu/~tuy/pub/posters/ICDE09-poster.ppt">ppt</a>
+25. <b> Y. Tu</b>, S. Chen, and S. Pandit. Computing Distance Histograms Efficiently in Scientific Databases. In <i>Procs. of 25th International Conference on Data Engineering </i>(<i>ICDE</i>), pp. 796-807, Shanghai, China, March 2009. (long paper with oral presentation, acceptance rate: 93/554=16.8%) <a href="https://cse.usf.edu/~tuy/pub/ICDE09.pdf"> pdf</a> <a href="https://cse.usf.edu/~tuy/pub/talks/ICDE09-notes.ppt">ppt </a><a href="https://cse.usf.edu/~tuy/pub/posters/ICDE09-poster.ppt">ppt</a>
 
+26.  Y. Xia, <b>Y. Tu</b>, M. Atallah, and S. Prabhakar. Reducing Data Redundancy in Location-Based Services. In <i>Procs. of 2nd International Conference on Geosensor Networks</i>, pp.30-35, Boston, MA, October 2006. <a href="https://cse.usf.edu/~tuy/pub/GSN06.pdf">pdf</a>
 
-   Y. Xia, <b>Y. Tu</b>, M. 
-   Atallah, and S. Prabhakar. Reducing Data Redundancy in Location-Based Services. In <i>Procs. of 2nd International 
-   Conference on Geosensor Networks</i>, pp.30-35, Boston, MA, October 2006.
-   </span>
-   <span style="text-decoration: none">
-   <a href="https://cse.usf.edu/~tuy/pub/GSN06.pdf">
-   <img id="_x0000_i1062" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></a></span>
+27. <b>Y. Tu</b>, S. Liu, S. Prabhakar, and B. Yao. Load Shedding in Stream Databases - A Control-Based Approach. In Proceedings of <i>Intl. Conf. on Very Large Databases</i> (<i>VLDB</i>), pp.787-798, Seoul, Korea, September 2006. (acceptance rate: 46/331=13.9%) <a href="https://cse.usf.edu/~tuy/pub/vldb06.ps" >ps </a> <a href="https://cse.usf.edu/~tuy/pub/vldb06.pdf">pdf </a> <a href="https://cse.usf.edu/~tuy/pub/talks/vldb05-0820.ppt">ppt </a> <a href="https://cse.usf.edu/~tuy/pub/talks/VLDB06.ppt"> ppt</a>
 
+- R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive Stream Filters for Entity-Based Queries with Non-Value Tolerance. In Proceedings of <i>Intl. Conf. on Very Large Databases</i> (<i>VLDB</i>), pp.37-48, Trondheim, Norway, August 2005. (acceptance rate: 32/195=16.4%)<a href="https://cse.usf.edu/~tuy/pub/vldb05.pdf">pdf </a>    <a href="https://cse.usf.edu/~tuy/pub/talks/vldb05-0820.ppt"> ppt </a>
 
-   
-   <b>Y. 
-   Tu</b>, </span></b>
-   S. Liu, S. Prabhakar, and B. Yao. Load Shedding in Stream Databases - A Control-Based Approach. In Proceedings of
-   <i>Intl. Conf. on Very Large 
-   Databases</i> (<i>VLDB</i>), pp.787-798, Seoul, Korea, September 
-   2006. (acceptance rate: 46/331=13.9%)<span style=""> </span>
-   <a href="https://cse.usf.edu/~tuy/pub/vldb06.ps">
-   <span style="text-decoration: none">
-   <img id="_x0000_i1029" height="18" src="ps_icon.gif" width="21" border="0"></span></a><a href="https://cse.usf.edu/~tuy/pub/vldb06.pdf"><span style="text-decoration: none"><img id="_x0000_i1030" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span><span lang="EN-US" style="FONT-SIZE: 9pt; FONT-FAMILY: Garamond"><a href="https://cse.usf.edu/~tuy/pub/talks/vldb05-0820.ppt"><span style="font-size: 11pt; text-decoration: none"><a href="https://cse.usf.edu/~tuy/pub/talks/VLDB06.ppt"><img id="_x0000_i1058" height="18" src="ppt-Icon.gif" width="17" border="0"></a></span></a></span></p>
+- <b>Y. Tu</b>, J. Yan, and S. Prabhakar. Quality-Aware Replication of Multimedia Data. In Proceedings of <i>Intl. Conf. of Database and Expert Systems Applications</i> (<i>DEXA</i>), pp. 240-249, Copenhagen, Denmark, August 2005. (acceptance rate: 92/390=23%) <a href="https://cse.usf.edu/~tuy/pub/dexa05-rep.pdf"> pdf</a> <a href="https://cse.usf.edu/~tuy/pub/talks/Talk-dexa05-rep.ppt"> ppt </a>
 
+30. <b>Y. Tu</b>, M. Hefeeda, Y. Xia, S. Prabhakar, and S. Liu. Control-based Quality Adaptation in Data Stream Management Systems. In Proceedings of <i>Intl. Conf. of Database and Expert Systems Applications</i> (<i>DEXA</i>), pp.746-755, Copenhagen, Denmark, August 2005. (acceptance rate: 92/390=23%) <a href="https://cse.usf.edu/~tuy/pub/dexa05-ctrl.pdf"> pdf </a> <a href="https://cse.usf.edu/~tuy/pub/talks/Talk-dexa05-ctrl.ppt">ppt </a>
 
-   R. 
-   Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive 
-   Stream Filters for Entity-Based Queries with Non-Value Tolerance. In 
-   Proceedings of <i>Intl. Conf. on Very Large Databases</i> (<i>VLDB</i>), 
-   pp.37-48, Trondheim, Norway, August 2005.</span><span lang="EN-US" style="FONT-SIZE: 9pt; FONT-FAMILY: Garamond">
-   </span>
-   (acceptance rate: 32/195=16.4%)<a href="https://cse.usf.edu/~tuy/pub/vldb05.pdf"><span style="text-decoration: none"><img id="_x0000_i1033" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span><span lang="EN-US" style="FONT-SIZE: 9pt; FONT-FAMILY: Garamond"><a href="https://cse.usf.edu/~tuy/pub/talks/vldb05-0820.ppt"><span style="font-size: 11pt; text-decoration: none"><img id="_x0000_i1034" height="18" src="ppt-Icon.gif" width="17" border="0"></span></a></span>
-   </p>
+31. L. Qu and <b>Y. Tu</b>. Change Point Estimation of Bar Code Signals. In Proceedings of <i>International Conference on Scientific Computing</i>, pp.109-114, Las Vegas, USA, June 2005. <a href="https://cse.usf.edu/~tuy/pub/CSC05.pdf"> pdf </a>
 
-
-   <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond; font-weight:700">Y. 
-   Tu</span></b>, 
-   J. Yan, and S. Prabhakar. Quality-Aware Replication of Multimedia 
-   Data. In Proceedings of <i>Intl. Conf. of Database and Expert 
-   Systems Applications</i> (<i>DEXA</i>), pp. 240-249, Copenhagen, 
-   Denmark, August 2005. (acceptance rate: 92/390=23%) &nbsp;<a href="https://cse.usf.edu/~tuy/pub/dexa05-rep.pdf"><span style="text-decoration: none"><img id="_x0000_i1035" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span><span lang="EN-US" style="FONT-SIZE: 9pt; FONT-FAMILY: Garamond"><a href="https://cse.usf.edu/~tuy/pub/talks/Talk-dexa05-rep.ppt"><span style="font-size: 11pt; text-decoration: none"><img id="_x0000_i1036" height="18" src="ppt-Icon.gif" width="17" border="0"></span></a></span>
-
-
-   <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond; font-weight:700">Y. 
-   Tu</span></b>, 
-   M. Hefeeda, Y. Xia, S. Prabhakar, and S. Liu. Control-based Quality 
-   Adaptation in Data Stream Management Systems. In Proceedings of <i>Intl. Conf. of Database and Expert Systems Applications</i> (<i>DEXA</i>), 
-   pp.746-755, Copenhagen, Denmark, August 2005. (acceptance rate: 
-   92/390=23%)
-   <a href="https://cse.usf.edu/~tuy/pub/dexa05-ctrl.pdf">
-   <span style="text-decoration: none"><img id="_x0000_i1037" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span><span lang="EN-US" style="FONT-SIZE: 9pt; FONT-FAMILY: Garamond"><a href="https://cse.usf.edu/~tuy/pub/talks/Talk-dexa05-ctrl.ppt"><span style="font-size: 11pt; text-decoration: none"><img id="_x0000_i1038" height="18" src="ppt-Icon.gif" width="17" border="0"></span></a></span></p>
-
-
-   L. 
-   Qu and <b>Y. Tu</b>. Change Point Estimation of Bar Code Signals.<b>
-   </b>In Proceedings of <i>International Conference on Scientific 
-   Computing</i>, pp.109-114, Las Vegas, USA, June 2005.&nbsp;
-   <a href="https://cse.usf.edu/~tuy/pub/CSC05.pdf">
-   <span style="text-decoration: none">
-   <img id="_x0000_i1039" height="18" src="pdf_icon.gif" width="40" border="0"></span></a></span></p>
-
-
-   
    <b>Y. 
    Tu</b>,</span></b> 
    S. Prabhakar, A. Elmagarmid and R. Sion. QuaSAQ: An Approach to 
