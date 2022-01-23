@@ -19,7 +19,7 @@ permalink:
 
 5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020.<a href="../pub/COR20.pdf">
 
-6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0">
+6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf">
 
 7. Shuang Na, Kandethody Ramachandran, Ming Ji, and <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf">
 	
