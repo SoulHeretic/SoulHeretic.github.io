@@ -27,7 +27,7 @@ permalink:
 	
 9. Hao Li, Yi-Cheng Tu, and Bo Zeng. Concurrent Query Processing in a GPU-Based Database System. Plos ONE 14(4): e0214720, April 2019. 
 
-10.Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Algorithms and Framework for Computing 2-body Statistics on GPUs. Distributed and Parallel Databases 37(4):587-622, December 2019. 
+10. Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Algorithms and Framework for Computing 2-body Statistics on GPUs. Distributed and Parallel Databases 37(4):587-622, December 2019. 
 	
 11. Chengcheng Mou, Shaoping Chen, and Yi-Cheng Tu. A Comparative Study of Dual-tree Algorithms for Computing Spatial Distance Histograms. The Computer Journal 62(1):42-62, January 2019.
 	
@@ -41,89 +41,45 @@ permalink:
 
 16. A. Kumar, V. Grupcev, M. Berrada, J. Fogarty, <b>Y. Tu</b>, X. Zhu, S. Pandit, and Y. Xia. DCMS: A data analytics and management system for molecular simulations. <i>Journal of Big Data</i> 2:9, November 2014. <a href="https://cse.usf.edu/~tuy/pub/JBD14.pdf">
         
-                    <li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
-            A. Kumar, V. Grupcev, Y. Yuan, <b>Y. Tu</b>, Jin Huang, and G. Shen. Computing Spatial
-            Distance Histograms for Large Scientific Datasets On-the-fly. <i>IEEE Transactions on Knowledge and Data Engineering
-            </i> (<i>TKDE</i>) 26(10):2410-2424, October 2014.
-            <a href="https://cse.usf.edu/~tuy/pub/TKDE14.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
-Y. Tu, X. Wang, and B. Zeng. A System for Energy-Efficient Data Management. SIGMOD Record 43(1):21-26, March 2014. 
-Jin Huang, Feiping Nie, Heng Huang, Yi-Cheng Tu, and Yu Lei. Social Trust Prediction Using Heterogeneous Networks. Accepted to ACM Transactions on Knowledge Discovery from Data (TKDD) 7(4):17, November 2013. 
-C. H. Nadungodage, Y. Xia, J. Lee, and Y. Tu. Hyper-Structure Mining of Frequent Patterns in Uncertain Data Streams. Knowledge and Information Systems (KAIS) 37(1):219--244. 
-V. Grupcev, Y. Yuan, Y. Tu, Jin Huang, S. Chen, S. Pandit, and M. Weng. Approximate Algorithms for Computing Distance Histograms with Accuracy Guarantees. IEEE Transactions on Knowledge and Data Engineering (TKDE) 25(9):1982-1996, September 2013. 
-S. Chen, Y. Tu, and Y. Xia. Performance Analysis of A Dual-Tree Algorithm for Computing Spatial Distance Histograms. The VLDB Journal. 20(4):471-494, August 2011. 
-        <li><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu. </b> Filtering Data Streams for Entity-based Continuous Queries. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>). 22(2):234-248, February 2010. <a href="https://cse.usf.edu/~tuy/pub/draft/tkde09.pdf">
-            <img id="_x0000_i1067" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+17. A. Kumar, V. Grupcev, Y. Yuan, <b>Y. Tu</b>, Jin Huang, and G. Shen. Computing Spatial Distance Histograms for Large Scientific Datasets On-the-fly. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 26(10):2410-2424, October 2014. <a href="https://cse.usf.edu/~tuy/pub/TKDE14.pdf">
+
+18. Y. Tu, X. Wang, and B. Zeng. A System for Energy-Efficient Data Management. SIGMOD Record 43(1):21-26, March 2014.
+	
+19. Jin Huang, Feiping Nie, Heng Huang, Yi-Cheng Tu, and Yu Lei. Social Trust Prediction Using Heterogeneous Networks. Accepted to ACM Transactions on Knowledge Discovery from Data (TKDD) 7(4):17, November 2013. 
+
+20. C. H. Nadungodage, Y. Xia, J. Lee, and Y. Tu. Hyper-Structure Mining of Frequent Patterns in Uncertain Data Streams. Knowledge and Information Systems (KAIS) 37(1):219--244.
+	
+21. V. Grupcev, Y. Yuan, Y. Tu, Jin Huang, S. Chen, S. Pandit, and M. Weng. Approximate Algorithms for Computing Distance Histograms with Accuracy Guarantees. IEEE Transactions on Knowledge and Data Engineering (TKDE) 25(9):1982-1996, September 2013. 
+
+22. S. Chen, Y. Tu, and Y. Xia. Performance Analysis of A Dual-Tree Algorithm for Computing Spatial Distance Histograms. The VLDB Journal. 20(4):471-494, August 2011. 
+	
+23. R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu. </b> Filtering Data Streams for Entity-based Continuous Queries. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>). 22(2):234-248, February 2010. <a href="https://cse.usf.edu/~tuy/pub/draft/tkde09.pdf">
         
-		<li><span lang="EN-US" style="font-size: 11pt; font-family: Garamond">H. Fang, Q. Wang, <b>Y. Tu</b> and M.F . Horstemeyer. An Efficient Non-Dominated Sorting	Method for Evolutionary Algorithms. <i>Journal of Evolutionary Computation</i>. 16(3):355-384, Fall 2008. <a href="https://cse.usf.edu/~tuy/pub/statement.htm"><img id="_x0000_i1063" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+24. H. Fang, Q. Wang, <b>Y. Tu</b> and M.F . Horstemeyer. An Efficient Non-Dominated Sorting	Method for Evolutionary Algorithms. <i>Journal of Evolutionary Computation</i>. 16(3):355-384, Fall 2008. <a href="https://cse.usf.edu/~tuy/pub/statement.htm">
 
-		<li><span lang="EN-US" style="font-size: 11pt; font-family: Garamond"><b>Y. Tu,</b> J. Yan, G. Shen and S. Prabhakar. Multi-Quality Data Replication in Multimedia Databases. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 19(5):679-694, May 2007. <a href="https://cse.usf.edu/~tuy/pub/TKDE07.pdf">
-		<img id="_x0000_i1063" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+25. <b>Y. Tu,</b> J. Yan, G. Shen and S. Prabhakar. Multi-Quality Data Replication in Multimedia Databases. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 19(5):679-694, May 2007. <a href="https://cse.usf.edu/~tuy/pub/TKDE07.pdf">
 
-		<li>
+26. L. Qu and<b> Y. Tu. </b>Change Point Estimation of Bi-Level Functions. <i>Journal of Modern Applied Statistical Methods</i>. 5(2):347-355, November 2006. <a href="https://cse.usf.edu/~tuy/pub/JMASM06.pdf">
 
-		<span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">L. 
+27. <b>Tu</span></b>, J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 1(4):354-376., November 2005. <a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf">
 
-		Qu and<b> Y. Tu. </b>Change Point Estimation of Bi-Level Functions. 
+28. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. <i>ACM/Springer Multimedia Systems. </i>9(6):575-585., June 2004. <a href="https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf">
 
-		<i>Journal of Modern Applied Statistical Methods</i>. 5(2):347-355, 
-		November 2006. </span>
+# Referred Conferences and Workshops
 
-		<span style="text-decoration: none; font-size:11pt; font-family:Garamond" lang="EN-US">
+1. Jinghan Meng, Napath Pitaksirianan, and Yi-Cheng Tu. Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs. In Procs. of IEEE International Conference on Big Data (BigData), pp. 533-542, Los Angeles, CA, USA, December 2019.
 
-		<a href="https://cse.usf.edu/~tuy/pub/JMASM06.pdf">
+2. Faisal Qarah, and Yi-Cheng Tu. A Fast Exact Viewshed Algorithm on GPUs. In Procs. of IEEE International Conference on Big Data (BigData), pp. 3397-3405, Los Angeles, CA, USA, December 2019.
+ 
+3. Zhila Nouri and Yi-Cheng Tu. GPU-based Parallel Indexing for Concurrent Spatial Query Processing. In Procs. 30th International Conference on Scientific and Statistical Database Management (SSDBM), 23, Bolzano-Bozen, Italy, July 9-11, 2018. 
 
-		<img id="_x0000_i1066" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
-
-		<li><b>
-
-		<span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">Y. 
-
-		Tu</span></b><span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">, 
-
-		J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of 
-
-		Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on 
-
-		Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 
-		1(4):354-376., November 2005. 
-
-		<a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf">
-
-		<img id="_x0000_i1026" height="18" src="pdf_icon.gif" width="40" border="0"></a> </span></li>
-
-		<li>
-
-		<span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">W. 
-
-		Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. 
-
-		Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). 
-
-		VDBMS: A Testbed Facility for Research in Video Database 
-
-		Benchmarking. <i>ACM/Springer Multimedia Systems. </i>9(6):575-585., 
-
-		June 2004.
-
-		<a href="https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf">
-
-		<img id="_x0000_i1027" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
-
-	</ol>
-
-	<h2><a name="Conference"></a>Refereed Conferences and Workshops</h2>
-
-	<ol>
-		<li>
-            <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
-Jinghan Meng, Napath Pitaksirianan, and Yi-Cheng Tu. Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs. In Procs. of IEEE International Conference on Big Data (BigData), pp. 533-542, Los Angeles, CA, USA, December 2019.
-
-Faisal Qarah, and Yi-Cheng Tu. A Fast Exact Viewshed Algorithm on GPUs. In Procs. of IEEE International Conference on Big Data (BigData), pp. 3397-3405, Los Angeles, CA, USA, December 2019.
- Zhila Nouri and Yi-Cheng Tu. GPU-based Parallel Indexing for Concurrent Spatial Query Processing. In Procs. 30th International Conference on Scientific and Statistical Database Management (SSDBM), 23, Bolzano-Bozen, Italy, July 9-11, 2018. 
-Ran Rui and Yi-Cheng Tu. Fast Equi-Join Algorithms on GPUs: Design and Implementation. Accepted to 29th International Conference on Scientific and Statistical Database Management (SSDBM), Chicago, IL, USA., June 27-29, 2017. (Best Paper Runner Up) 
-Jinghan Meng and Yi-Cheng Tu. Flexible and Feasible Support Measures for Mining Frequent Patterns in Large Labeled Graphs. In Procs. ACM International Conference on Management of Data (SIGMOD), Chicago, IL, USA., May 14-19, 2017.
-Chengcheng Mou, Shaoping Chen, and Yi-Cheng Tu. A comparative study of dual-tree algorithm implementations for computing 2-body statistics in spatial data. In Procs. of IEEE International Conference on Big Data (BigData), pp. 2676-2685, Washington, DC, USA, December 2016.
-Peyman Behzadnia, Wei Yuan, Bo Zeng, Yi-Cheng Tu, and Xiaorui Wang. Dynamic Power-Aware Disk Storage Management in Database Servers. In Procs. of 27th International Conference on Database and Expert Systems Applications (DEXA), pp. 315-325, Porto, Portugal, September 5-8, 2016.
+4.Ran Rui and Yi-Cheng Tu. Fast Equi-Join Algorithms on GPUs: Design and Implementation. Accepted to 29th International Conference on Scientific and Statistical Database Management (SSDBM), Chicago, IL, USA., June 27-29, 2017. (Best Paper Runner Up) 
+	
+5. Jinghan Meng and Yi-Cheng Tu. Flexible and Feasible Support Measures for Mining Frequent Patterns in Large Labeled Graphs. In Procs. ACM International Conference on Management of Data (SIGMOD), Chicago, IL, USA., May 14-19, 2017.
+	
+6. Chengcheng Mou, Shaoping Chen, and Yi-Cheng Tu. A comparative study of dual-tree algorithm implementations for computing 2-body statistics in spatial data. In Procs. of IEEE International Conference on Big Data (BigData), pp. 2676-2685, Washington, DC, USA, December 2016.
+	
+7. Peyman Behzadnia, Wei Yuan, Bo Zeng, Yi-Cheng Tu, and Xiaorui Wang. Dynamic Power-Aware Disk Storage Management in Database Servers. In Procs. of 27th International Conference on Database and Expert Systems Applications (DEXA), pp. 315-325, Porto, Portugal, September 5-8, 2016.
 Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Efficient 2-Body Statistics Computation on GPUs: Parallelization and Beyond. In Procs. of 45th International Conference on Parallel Processing (ICPP), pp. 380-385, Philadelphia, PA, USA., August 16-19, 2016.
            <li> <span lang="EN-US" style="FONT-SIZE: 11pt; FONT-FAMILY: Garamond">
                 Anand Kumar, Jay Ligatti, and <b>Yi-Cheng Tu</b>. Query Monitoring and Analysis for Database Privacy - A Security Automata Model Approach. In Procs. of <i>16th International Conference on Web Information Systems Engineering </i> (<i>WISE</i>), pp. 2458-472, Miami, FL, USA., November 2015.<a href="https://cse.usf.edu/~tuy/pub/WISE15.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
