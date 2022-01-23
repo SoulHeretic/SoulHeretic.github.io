@@ -17,11 +17,11 @@ permalink:
 
 4. C. Li, C. Mou, M. Swartz, B. Yu, Y. Bai,<b>Y. Tu</b>, and X. Liu. dbMTS: a comprehensive database of putative human microRNA target site SNVs and their functional predictions. Human Mutations 41(6):1123-1130.
 
-5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020. <a href="../pub/COR20.pdf">
+5. Mehrad Eslami, Vahid Mahmoodian, Iman Dayarian, HadiCharkhgard, and <b>Yi-Cheng Tu</b>. Query Batching Optimization in Database Systems. <i>Computer & Operations Research</i> 121:104983, September 2020. <a href="../pub/COR20.pdf"> pdf</a>
 
-6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf">
+6. Jinghan Meng, Napath Pitaksirianan, and <b>Yi-Cheng Tu</b>. Counting Frequent Patterns in Large Labeled Graphs: A Hypergraph-Based Approach. <i>Data Mining and Knowledge Discovery</i> 34(4):980-1021, May 2020.<a href="../pub/DMKD20.pdf"> pdf</a>
 
-7. Shuang Na, Kandethody Ramachandran, Ming Ji, and <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf">
+7. Shuang Na, Kandethody Ramachandran, Ming Ji, and <b>Yi-Cheng Tu</b>. Real-Time Activity Recognition Using Smartphone Accelerometer. <i>International Journal of Trends in Scientific Research and Development (IJTSRD)</i> 4(1):533-542, December 2019. <a href="../pub/IJTSRD19.pdf"> pdf</a>
 	
 8. Aditya Chandra Vothgod Ramachandra, Yin Lu, Minh Pham, Yi-Cheng Tu, and Feng Cheng. CuDDI: A CUDA-based application for extracting drug-drug interaction related substance terms from PubMed literature. Molecules 24(6):1081, 2019. 
 	
@@ -37,11 +37,11 @@ permalink:
 	
 14. Yin Lu, Dan Shen, Maxwell Pietsch, Chetan Nagar, Zayd Fadli, Hong Huang, Yi-Cheng Tu, and Feng Cheng. A novel algorithm for analyzing drug-drug interactions from MEDLINE literature. Scientific Reports 5, 17357, November 2015. 
 
-15. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Online Energy Estimation of Relational Operations in Database Systems. <i>IEEE Transactions on Computers</i> (<i>TC</i>) 64(11):3223-3236, January 2015. <a href="../pub/TC15.pdf">
+15. Zichen Xu, <b>Yi-Cheng Tu</b>, and Xiaorui Wang. Online Energy Estimation of Relational Operations in Database Systems. <i>IEEE Transactions on Computers</i> (<i>TC</i>) 64(11):3223-3236, January 2015. <a href="../pub/TC15.pdf"> pdf</a>
 
-16. A. Kumar, V. Grupcev, M. Berrada, J. Fogarty, <b>Y. Tu</b>, X. Zhu, S. Pandit, and Y. Xia. DCMS: A data analytics and management system for molecular simulations. <i>Journal of Big Data</i> 2:9, November 2014. <a href="https://cse.usf.edu/~tuy/pub/JBD14.pdf">
+16. A. Kumar, V. Grupcev, M. Berrada, J. Fogarty, <b>Y. Tu</b>, X. Zhu, S. Pandit, and Y. Xia. DCMS: A data analytics and management system for molecular simulations. <i>Journal of Big Data</i> 2:9, November 2014. <a href="https://cse.usf.edu/~tuy/pub/JBD14.pdf"> pdf</a>
         
-17. A. Kumar, V. Grupcev, Y. Yuan, <b>Y. Tu</b>, Jin Huang, and G. Shen. Computing Spatial Distance Histograms for Large Scientific Datasets On-the-fly. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 26(10):2410-2424, October 2014. <a href="https://cse.usf.edu/~tuy/pub/TKDE14.pdf">
+17. A. Kumar, V. Grupcev, Y. Yuan, <b>Y. Tu</b>, Jin Huang, and G. Shen. Computing Spatial Distance Histograms for Large Scientific Datasets On-the-fly. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 26(10):2410-2424, October 2014. <a href="https://cse.usf.edu/~tuy/pub/TKDE14.pdf"> pdf</a>
 
 18. Y. Tu, X. Wang, and B. Zeng. A System for Energy-Efficient Data Management. SIGMOD Record 43(1):21-26, March 2014.
 	
@@ -53,17 +53,17 @@ permalink:
 
 22. S. Chen, Y. Tu, and Y. Xia. Performance Analysis of A Dual-Tree Algorithm for Computing Spatial Distance Histograms. The VLDB Journal. 20(4):471-494, August 2011. 
 	
-23. R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu. </b> Filtering Data Streams for Entity-based Continuous Queries. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>). 22(2):234-248, February 2010. <a href="https://cse.usf.edu/~tuy/pub/draft/tkde09.pdf">
+23. R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu. </b> Filtering Data Streams for Entity-based Continuous Queries. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>). 22(2):234-248, February 2010. <a href="https://cse.usf.edu/~tuy/pub/draft/tkde09.pdf"> pdf</a>
         
-24. H. Fang, Q. Wang, <b>Y. Tu</b> and M.F . Horstemeyer. An Efficient Non-Dominated Sorting	Method for Evolutionary Algorithms. <i>Journal of Evolutionary Computation</i>. 16(3):355-384, Fall 2008. <a href="https://cse.usf.edu/~tuy/pub/statement.htm">
+24. H. Fang, Q. Wang, <b>Y. Tu</b> and M.F . Horstemeyer. An Efficient Non-Dominated Sorting	Method for Evolutionary Algorithms. <i>Journal of Evolutionary Computation</i>. 16(3):355-384, Fall 2008. <a href="https://cse.usf.edu/~tuy/pub/statement.htm"> html </a>
 
-25. <b>Y. Tu,</b> J. Yan, G. Shen and S. Prabhakar. Multi-Quality Data Replication in Multimedia Databases. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 19(5):679-694, May 2007. <a href="https://cse.usf.edu/~tuy/pub/TKDE07.pdf">
+25. <b>Y. Tu,</b> J. Yan, G. Shen and S. Prabhakar. Multi-Quality Data Replication in Multimedia Databases. <i>IEEE Transactions on Knowledge and Data Engineering</i> (<i>TKDE</i>) 19(5):679-694, May 2007. <a href="https://cse.usf.edu/~tuy/pub/TKDE07.pdf"> pdf</a>
 
-26. L. Qu and<b> Y. Tu. </b>Change Point Estimation of Bi-Level Functions. <i>Journal of Modern Applied Statistical Methods</i>. 5(2):347-355, November 2006. <a href="https://cse.usf.edu/~tuy/pub/JMASM06.pdf">
+26. L. Qu and<b> Y. Tu. </b>Change Point Estimation of Bi-Level Functions. <i>Journal of Modern Applied Statistical Methods</i>. 5(2):347-355, November 2006. <a href="https://cse.usf.edu/~tuy/pub/JMASM06.pdf">pdf</a>
 
-27. <b>Tu</span></b>, J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 1(4):354-376., November 2005. <a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf">
+27. <b>Tu</span></b>, J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<i>TOMCCAP</i>). 1(4):354-376., November 2005. <a href="https://cse.usf.edu/~tuy/pub/tomccap05.pdf"> pdf</a>
 
-28. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. <i>ACM/Springer Multimedia Systems. </i>9(6):575-585., June 2004. <a href="https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf">
+28. W. Aref, A. Catlin, A. Elmagarmid, J. Fan, M. Hammad, I. Ilyas, M. Marzouk, S. Prabhakar, <b>Y. Tu</b> and X. Zhu (alphabetical order). VDBMS: A Testbed Facility for Research in Video Database Benchmarking. <i>ACM/Springer Multimedia Systems. </i>9(6):575-585., June 2004. <a href="https://cse.usf.edu/~tuy/pub/mms_vdbms.pdf"> pdf</a>
 
 # Referred Conferences and Workshops
 
@@ -83,9 +83,9 @@ permalink:
 	
 8. Napath Pitaksirianan, Zhila Nouri, and Yi-Cheng Tu. Efficient 2-Body Statistics Computation on GPUs: Parallelization and Beyond. In Procs. of 45th International Conference on Parallel Processing (ICPP), pp. 380-385, Philadelphia, PA, USA., August 16-19, 2016.
 
-9. Anand Kumar, Jay Ligatti, and <b>Yi-Cheng Tu</b>. Query Monitoring and Analysis for Database Privacy - A Security Automata Model Approach. In Procs. of <i>16th International Conference on Web Information Systems Engineering </i> (<i>WISE</i>), pp. 2458-472, Miami, FL, USA., November 2015.<a href="https://cse.usf.edu/~tuy/pub/WISE15.pdf">
+9. Anand Kumar, Jay Ligatti, and <b>Yi-Cheng Tu</b>. Query Monitoring and Analysis for Database Privacy - A Security Automata Model Approach. In Procs. of <i>16th International Conference on Web Information Systems Engineering </i> (<i>WISE</i>), pp. 2458-472, Miami, FL, USA., November 2015.<a href="https://cse.usf.edu/~tuy/pub/WISE15.pdf"> pdf</a>
 
-10. Ran Rui, Hao Li, and <b>Yi-Cheng Tu</b>. Join algorithms on GPUs: A revisit after seven years. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 2541-2550, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-Join.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span></li>
+10. Ran Rui, Hao Li, and <b>Yi-Cheng Tu</b>. Join algorithms on GPUs: A revisit after seven years. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 2541-2550, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-Join.pdf"> pdf</a>
 
    
    Vladimir Grupcev, <b>Yi-Cheng Tu</b>, Joseph C. Fogarty, Sagar Pandit. Push-based system for molecular simulation data analysis. In Procs. of <i>3rd IEEE International Conference on Big Data</i> (<i>BigData</i>), pp. 1775-1784, Santa Clara, CA, USA., October 2015.<a href="https://cse.usf.edu/~tuy/pub/BigData15-PDB.pdf"><img id="_x0000_i1068" height="18" src="pdf_icon.gif" width="40" border="0"></a></span>
@@ -335,17 +335,17 @@ Multimedia Systems (DMS) 2003, </i>pp.160-166.&nbsp;&nbsp;
 
 - <b>Y. Tu,</b> S. Chen, and S. Pandit. Computing Spatial Distance Histograms Efficeintly in Scientific Databases. Technical Report CSE/08-103, Department of Computer Science and Engineering, University of South Florida, 2008.
 
--  Y. Tu , S. Prabhakar, J. Yan,<b> </b>and G. Shen. Multi-Quality Data Replication in Multimedia Databases. Technical Report CSD-TR-06-009, Department of Computer Sciences, Purdue University, 2006.<a href="https://cse.usf.edu/~tuy/pub/tr/06009.ps">
+-  Y. Tu , S. Prabhakar, J. Yan,<b> </b>and G. Shen. Multi-Quality Data Replication in Multimedia Databases. Technical Report CSD-TR-06-009, Department of Computer Sciences, Purdue University, 2006.<a href="https://cse.usf.edu/~tuy/pub/tr/06009.ps">ps</a>
 
-- <b> Y. Tu,</b> S. Liu, S. Prabhakar, and B. Yao. Load Shedding in Stream Databases &#8211; A Control-Based Approach. Technical Report CSD-TR-06-006, Department of Computer Sciences, Purdue University, 2006. <a href="https://cse.usf.edu/~tuy/pub/06006.pdf"> <a href="https://cse.usf.edu/~tuy/pub/tr/06006.pdf">
+- <b> Y. Tu,</b> S. Liu, S. Prabhakar, and B. Yao. Load Shedding in Stream Databases &#8211; A Control-Based Approach. Technical Report CSD-TR-06-006, Department of Computer Sciences, Purdue University, 2006. <a href="https://cse.usf.edu/~tuy/pub/06006.pdf"> pdf</a>
       
-- <b> Y. Tu, </b> J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. Technical Report CSD-TR-05-11, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0511.ps"> <a href="https://cse.usf.edu/~tuy/pub/tr/0511.pdf">
+- <b> Y. Tu, </b> J. Sun, M. Hefeeda, and S. Prabhakar. An Analytical Study of Peer-to-Peer Media Streaming Systems. Technical Report CSD-TR-05-11, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0511.ps">ps</a> <a href="https://cse.usf.edu/~tuy/pub/tr/0511.pdf">pdf</a>
       
-- R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive Stream Filters for Entity-Based Queries with Non-Value Tolerance. Technical Report CSD-TR-05-03, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0503.pdf">
+- R. Cheng, B. Kao, S. Prabhakar, A. Kwan, and <b>Y. Tu</b>. Adaptive Stream Filters for Entity-Based Queries with Non-Value Tolerance. Technical Report CSD-TR-05-03, Department of Computer Sciences, Purdue University, 2005. <a href="https://cse.usf.edu/~tuy/pub/tr/0503.pdf">pdf</a>
 
-- <b>Y. Tu</b>, S. Prabhakar and A. Elmagarmid. An Database-Centric Approach to Enabling End-to-End QoS for Multimedia Repositories. Technical Report CSD-TR-0331, Department of Computer Sciences, Purdue University, 2003.&nbsp; <a href="https://cse.usf.edu/~tuy/pub/tr/0331.pdf">
+- <b>Y. Tu</b>, S. Prabhakar and A. Elmagarmid. An Database-Centric Approach to Enabling End-to-End QoS for Multimedia Repositories. Technical Report CSD-TR-0331, Department of Computer Sciences, Purdue University, 2003.&nbsp; <a href="https://cse.usf.edu/~tuy/pub/tr/0331.pdf">pdf</a>
 
-- <b>Y. Tu</b> and S. Lei. Towards Cost-Effective Media Streaming Service: A Peer-to-Peer Approach. Technical Report CSD-TR-0323, Department of Computer Sciences, Purdue University, 2003. <a href="https://cse.usf.edu/~tuy/pub/tr/0323.ps"> <a href="https://cse.usf.edu/~tuy/pub/tr/0323.pdf">
+- <b>Y. Tu</b> and S. Lei. Towards Cost-Effective Media Streaming Service: A Peer-to-Peer Approach. Technical Report CSD-TR-0323, Department of Computer Sciences, Purdue University, 2003. <a href="https://cse.usf.edu/~tuy/pub/tr/0323.ps"> ps</a> <a href="https://cse.usf.edu/~tuy/pub/tr/0323.pdf"> pdf</a>
 
 # Non-CS Publications
 
